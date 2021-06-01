@@ -1,3 +1,5 @@
+# 所有GitHub链接都已反代理加速，除了不能登陆账号，所有行为都加速了，直连点击即可。
+
 # 2020问卷调查合集
 
 收奖网http://www.sojiang.com/i.aspx?c=1-11501664
@@ -69,8 +71,6 @@ https://iproyal.com/pawns?r=97082
 https://cryptotabbrowser.com/18839769
 
 
-
-
 ### honey miner
 
 支持： 电脑
@@ -81,6 +81,43 @@ https://honeyminer.com/referred/6dwn5
 
 
 # 京东脚本除了试用的或特殊说明的不默认使用你的助力，没有隐私问题，其他的都会默认使用你的助力，说明中有写“偷助力”的都有京东账号隐私可能泄露的问题，谨慎使用
+
+
+### 代挂京东活动(除京东试用外的活动)，比下面的都全
+
+本人自己搭了一个服务器，目前还很空闲，如果有需要可以私信我cookie代挂京东活动。
+
+[点我跳转页面](http://a.spiritysdx.top:6789/)
+
+上面是京东cookie获取的链接，获取后请私信我cookie。
+
+事先声明，每个人助力的情况是固定的，先录入的会优先获得助力，我这个也会```默认```使用你的助力，但胜在活动比下面的都全。(含618活动)
+
+只是扫码不私信我是不会挂的，记得私信。
+
+下面放几张图：(代挂顺带下面的入会)
+
+![](https://pic.imgdb.cn/item/60b1025108f74bc1590b725d.png)
+
+![](https://pic.imgdb.cn/item/60b1025008f74bc1590b6a6e.png)
+
+![](https://pic.imgdb.cn/item/60b1025208f74bc1590b8c84.png)
+
+
+
+### 京东入会脚本(每天两次)
+
+支持：电脑，云服务器，安卓V4
+
+（这个没有助力活动）
+
+头一次能领1000+豆子，往后每次领大概100+，可以在云服务器中定时运行。
+
+仓库链接如下：（已反代理加速，直接点开直连打开即可）
+
+[点我跳转链接](https://git.spiritlhl.workers.dev/curtinlv/JD-Script/)
+
+它需要获取cookie，你可以私信我cookie我代挂顺带入会。
 
 
 
@@ -274,9 +311,12 @@ https://gitee.com/spiritlhl/qr-code-set
 
 本地执行和云端执行的github仓库链接(没跑路，但使用文档需要加群拿)
 
-https://github.com/shanmite/LotteryAutoScript#%E5%AE%9A%E6%97%B6%E8%BF%90%E8%A1%8Cutc0
+（已反代理加速，直接点开直连打开即可）
 
-本人参与的老项目了，最近可以用nodejs本地部署cmd执行，可以挂在云服务器上，中不中奖比较看人品，随缘挂。
+[点我跳转页面](https://git.spiritlhl.workers.dev/shanmite/LotteryAutoScript#%E5%AE%9A%E6%97%B6%E8%BF%90%E8%A1%8Cutc0)
+
+
+老项目了，最近可以用nodejs本地部署cmd执行，可以挂在云服务器上，中不中奖比较看人品，随缘挂。
 
 
 
@@ -334,6 +374,7 @@ https://spiritlhl.lanzoui.com/iH0gipibwqh
 
 https://spiritlhl.lanzoui.com/iU9r4pid49e
 
+### 活动找上面代挂更全，建议代挂。
 
 
 # 往后有啥类似的东西我会再更新一下帖子，欢迎在issues中提交你的类似项目。
