@@ -1,5 +1,9 @@
 # 所有GitHub链接都已反代理加速，除了不能登陆账号，所有行为都加速了，直连点击即可。
 
+# 国内需要下载GitHub仓库文件还是用这个吧
+
+https://ghproxy.com/
+
 # 2020问卷调查合集
 
 收奖网http://www.sojiang.com/i.aspx?c=1-11501664
@@ -29,6 +33,12 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 这个提现要求有点高，得满6000积分或者10000积分，也就是说做大概十五个调查问卷(一个300~500积分)才能提现，但是耗时少回报丰厚，比不上收奖网。
 
 # 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
+
+# 没云服务器的点下面这个买吧，一个月回本，如果挂下面某脚本的话
+
+https://curl.qcloud.com/MNyiQAB1
+
+https://curl.qcloud.com/pgLkw0ot
 
 ### 跑流量测试网站挂机
 
@@ -94,7 +104,15 @@ https://honeyminer.com/referred/6dwn5
 
 ~~只是扫码不私信我是不会挂的，记得私信。~~
 
-服务器资源快要耗尽，如果实在找不到代挂的可以私信我获取联系方式代挂，如果找得到就别找我了。(永远免费，只要是付费，都算是触犯**了)
+~服务器资源快要耗尽，如果实在找不到代挂的可以私信我获取联系方式代挂，如果找得到就别找我了。(永远免费，只要是付费，都算是触犯**了)~
+
+山高路远，有缘再见了，避避风头，某鱼一堆卖代挂，脚本大清洗快来了。
+
+有需求自己搭云服务器的平台自己挂吧，云服务器全网最低价推荐(我自己就用的这个，系统自己选linux的)
+
+https://curl.qcloud.com/pgLkw0ot
+
+https://curl.qcloud.com/MNyiQAB1
 
 
 ### 狗东入会脚本(每天两次)
@@ -133,6 +151,17 @@ https://honeyminer.com/referred/6dwn5
 仓库链接如下：（已反代理加速，直接点开直连打开即可）
 
 [点我跳转链接](https://git.spiritlhl.workers.dev/sngxpro/QuanX/)
+
+
+### 狗东JS脚本合集简易本地版
+
+支持：win系统，已安装node环境的
+
+配置特别简单，这里只是脚本仓库，具体使用方法自己看(作者更新不及时，随缘用)
+
+仓库链接如下：（已反代理加速，直接点开直连打开即可）
+
+[点我跳转链接](https://git.spiritlhl.workers.dev/jxmc11/jd_node_pc)
 
 
 
@@ -369,46 +398,7 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 
 # 有时效性的脚本(只为某段时间内的活动而出现的脚本)
 
-### 618狗东活动脚本
-
-支持：电脑，云服务器(推荐)
-
-(电脑版本的会偷你的助力，但你如果用了滑稽东它偷不着了，滑稽东助力用得更早点）
-
-exe蓝奏云盘链接：
-
-https://spiritlhl.lanzoui.com/iKSKvpid48d
-
-支持：安卓手机
-
-安卓版本的不会偷助力，但也没法给你助力
-
-app链接：
-
-https://spiritlhl.lanzoui.com/iH0gipibwqh
-
-
-### 兜兜风脚本
-
-支持：win系统电脑
-
-需要加作者群进行验证使用，默认使用你的助力，剩下的自己判别(功能比较全面，针对618的活动)
-
-链接：
-
-https://spiritlhl.lanzoui.com/iW5wsq6pl0d
-
-
-
-### 狗东家电星推官
-
-(会偷你的助力，但你如果用了滑稽东它偷不着了，滑稽东助力用得更早点）
-
-链接：
-
-https://spiritlhl.lanzoui.com/iU9r4pid49e
-
-### 活动找上面代挂更全，建议代挂。
+~618狗东活动脚本~
 
 
 # 往后有啥类似的东西我会再更新一下帖子，欢迎在issues中提交你的类似项目。
