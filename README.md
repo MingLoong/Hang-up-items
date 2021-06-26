@@ -386,6 +386,14 @@ https://rialll.lanzoux.com/b07m60hoh
 
 https://gitee.com/yijianguanzhu/douyu-hongbao
 
+### weixin步数挂机每日修改
+
+适配：腾讯云函数，本地有python环境的系统
+
+链接：
+
+[点我跳转页面](https://git.spiritlhl.workers.dev/spiritLHL/weixinbushu)
+
 
 ### 可定制游戏脚本APP
 
