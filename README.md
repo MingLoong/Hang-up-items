@@ -34,11 +34,24 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 # 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-# 没云服务器的点下面这个买吧，一个月回本，如果挂下面某脚本的话
+# 没云服务器的点下面这个买吧，一个月回本，如果挂下面第一个脚本的话
 
 https://curl.qcloud.com/MNyiQAB1
 
 https://curl.qcloud.com/pgLkw0ot
+
+### 跑模拟点击挂机
+
+支持：Ubuntu系统的linux，win系统
+
+仓库链接如下：（已反代理加速，直接点开直连打开即可）
+
+[点我跳转链接](https://git.spiritlhl.workers.dev/spiritLHL/Alexamaster)
+
+说明文档链接：(上面仓库也有说明文档，点上下哪个都能看到说明)
+
+https://www.spiritlhl.top/Alexamaster/
+
 
 ### 跑流量测试网站挂机
 
@@ -150,7 +163,9 @@ https://curl.qcloud.com/MNyiQAB1
 
 仓库链接如下：（已反代理加速，直接点开直连打开即可）
 
-[点我跳转链接](https://git.spiritlhl.workers.dev/sngxpro/QuanX/)
+~[点我跳转链接](https://git.spiritlhl.workers.dev/sngxpro/QuanX/)~
+
+已失效，有时间我再整理一下发出来。
 
 
 ### 狗东JS脚本合集简易本地版
