@@ -363,6 +363,15 @@ https://gitee.com/spiritlhl/qr-code-set
 
 这个软件不再有更新了，原版的删除了很多功能，原因是作者为了避免侵权。
 
+### 52签到助手修复版
+
+支持:win系统电脑，云服务器
+
+原帖链接：https://www.52pojie.cn/thread-1472238-1-1.html
+
+个人转存链接：https://spiritlhl.lanzoui.com/ipcPTr6x03e
+
+低调使用
 
 
 ### 动态转发抽奖机(自动抽奖)
