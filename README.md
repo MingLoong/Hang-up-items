@@ -36,7 +36,7 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 # 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-# 没云服务器的点下面这个买吧，一个月回本，如果挂下面第一个脚本的话
+# 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
 https://curl.qcloud.com/MNyiQAB1
 
@@ -371,7 +371,7 @@ https://gitee.com/spiritlhl/qr-code-set
 
 个人转存链接：https://spiritlhl.lanzoui.com/ipcPTr6x03e
 
-低调使用
+低调使用，第三方作者修复，不知道有没有后门，自行判断
 
 
 ### 动态转发抽奖机(自动抽奖)
@@ -442,3 +442,7 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 其实还有游戏脚本，私有云盘，发卡框架可挂，但这些都很难变现，暂时不会写到帖子。
 
 游戏脚本目前已知的有 炉石传说，守望先锋，王者荣耀  
+
+# 欢迎请博主喝一杯
+
+![](http://www.spiritclub.top/zz.jpg)
