@@ -219,9 +219,14 @@ https://superaj.lanzoui.com/b0brgwabi
 
 密码:d2e7
 
+
 ### 狗东评价助手
 
 支持：win系统电脑，云服务器
+
+燃动夏季兜兜风大佬脚本
+
+缺点：需要加入作者Q群836217980验证
 
 下载链接：https://spiritlhl.lanzoui.com/ikbeSr7ppqf
 
@@ -443,6 +448,8 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 ~618狗东活动脚本~
 
 燃动夏季兜兜风大佬脚本
+
+缺点：需要加入作者Q群836217980验证
 
 支持：win系统电脑，云服务器
 
