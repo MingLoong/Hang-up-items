@@ -42,6 +42,12 @@ https://curl.qcloud.com/MNyiQAB1
 
 https://curl.qcloud.com/pgLkw0ot
 
+### 2021.7.10更新列表
+
+狗东评价助手
+
+狗东限时活动燃动夏季脚本
+
 ### 跑模拟点击挂机
 
 支持：Ubuntu系统的linux，win系统
@@ -213,8 +219,11 @@ https://superaj.lanzoui.com/b0brgwabi
 
 密码:d2e7
 
+### 狗东评价助手
 
+支持：win系统电脑，云服务器
 
+下载链接：https://spiritlhl.lanzoui.com/ikbeSr7ppqf
 
 
 ### 苏宁狗东鲸鱼助手(5月更新)
@@ -226,7 +235,6 @@ https://superaj.lanzoui.com/b0brgwabi
 ```原帖链接``` https://www.52pojie.cn/thread-1443927-1-1.html
 
 下载链接详见原帖
-
 
 
 
@@ -433,6 +441,12 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 # 有时效性的脚本(只为某段时间内的活动而出现的脚本)
 
 ~618狗东活动脚本~
+
+燃动夏季兜兜风大佬脚本
+
+支持：win系统电脑，云服务器
+
+下载链接：https://spiritlhl.lanzoui.com/i3EjUr7pppe
 
 
 # 往后有啥类似的东西我会再更新一下帖子，欢迎在issues中提交你的类似项目。
