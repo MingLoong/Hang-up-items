@@ -472,6 +472,6 @@ https://spiritlhl.lanzoui.com/iDCf8rayypa
 
 游戏脚本目前已知的有 炉石传说，守望先锋，王者荣耀  
 
-# 欢迎请博主喝一杯
+# 欢迎请站主喝一杯
 
-![](http://www.spiritclub.top/zz.jpg)
+![](https://spiritlhl-tc.oss-cn-beijing.aliyuncs.com/zz.jpg)
