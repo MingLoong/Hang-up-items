@@ -42,11 +42,9 @@ https://curl.qcloud.com/MNyiQAB1
 
 https://curl.qcloud.com/pgLkw0ot
 
-### 2021.7.10更新列表
+### 2021.7.12更新列表
 
-狗东评价助手
-
-狗东限时活动燃动夏季脚本
+狗东限时活动燃动夏季脚本1.2版本
 
 ### 跑模拟点击挂机
 
@@ -453,7 +451,13 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 
 支持：win系统电脑，云服务器
 
-下载链接：https://spiritlhl.lanzoui.com/i3EjUr7pppe
+1.0版本下载链接：
+
+https://spiritlhl.lanzoui.com/i3EjUr7pppe\\
+
+1.1版本下载链接：
+
+https://spiritlhl.lanzoui.com/iMeQ8raxwcj
 
 
 # 往后有啥类似的东西我会再更新一下帖子，欢迎在issues中提交你的类似项目。
