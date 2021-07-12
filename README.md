@@ -48,6 +48,8 @@ https://curl.qcloud.com/pgLkw0ot
 
 狗东限时活动燃动夏季脚本1.1和1.2版本
 
+东东自动化助手2.0版本
+
 ### 跑模拟点击挂机
 
 支持：Ubuntu系统的linux，win系统
@@ -376,7 +378,7 @@ https://gitee.com/spiritlhl/qr-code-set
 
 这个软件不再有更新了，原版的删除了很多功能，原因是作者为了避免侵权。
 
-### 52签到助手修复版
+### 东东助手
 
 支持:win系统电脑，云服务器
 
@@ -385,6 +387,12 @@ https://gitee.com/spiritlhl/qr-code-set
 个人转存链接：https://spiritlhl.lanzoui.com/ipcPTr6x03e
 
 低调使用，第三方作者修复，不知道有没有后门，自行判断
+
+2.0版本
+
+个人转存链接：
+
+https://spiritlhl.lanzoui.com/iCbJrrbqgte
 
 
 ### 动态转发抽奖机(自动抽奖)
