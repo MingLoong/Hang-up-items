@@ -46,7 +46,7 @@ https://curl.qcloud.com/pgLkw0ot
 
 站长代挂站点回归，这次资源绝对够用，更新两个站点
 
-燃动夏季限时活动暂时下架，等待某东修复
+更新兜兜风燃动夏季1.3版本
 
 ### 跑模拟点击挂机
 
@@ -461,18 +461,9 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 
 支持：win系统电脑，云服务器
 
-1.0版本下载链接：
+1.3版本下载链接：
 
-https://spiritlhl.lanzoui.com/i3EjUr7pppe\\
-
-1.1版本下载链接：
-
-https://spiritlhl.lanzoui.com/iMeQ8raxwcj
-
-1.2版本下载链接：
-
-https://spiritlhl.lanzoui.com/iDCf8rayypa
-
+https://spiritlhl.lanzoui.com/iCdsbrefnuj
 
 # 往后有啥类似的东西我会再更新一下帖子，欢迎在issues中提交你的类似项目。
 
