@@ -475,4 +475,4 @@ https://spiritlhl.lanzoui.com/iILaHrfwbrc
 
 # 欢迎请站主喝一杯
 
-![](https://raw.githubusercontent.com/spiritLHL/tuchuang/master/zz.jpg)
+![](https://i.loli.net/2021/07/15/UPk5VbzAIC6OM7y.jpg)
