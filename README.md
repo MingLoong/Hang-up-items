@@ -42,7 +42,7 @@ https://curl.qcloud.com/MNyiQAB1
 
 https://curl.qcloud.com/pgLkw0ot
 
-### 2021.7.13更新列表
+### 2021.7.21更新列表
 
 站长代挂站点回归，这次资源绝对够用，更新多个站点，自己看说明
 
