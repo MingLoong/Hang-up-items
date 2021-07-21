@@ -46,7 +46,7 @@ https://curl.qcloud.com/pgLkw0ot
 
 站长代挂站点回归，这次资源绝对够用，更新多个站点，自己看说明
 
-更新兜兜风燃动夏季1.4版本，修复长时间挂机的火爆问题
+兜兜风被人破解加料了，现在只有autojs版本的，在限时活动区
 
 ### 跑模拟点击挂机
 
@@ -465,15 +465,32 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 
 ~618狗东活动脚本~
 
-燃动夏季兜兜风大佬脚本
+~燃动夏季兜兜风大佬脚本~
 
-缺点：需要加入作者Q群836217980验证
+~缺点：需要加入作者Q群836217980验证~
 
-支持：win系统电脑，云服务器
+~支持：win系统电脑，云服务器~
 
-1.4版本下载链接：
+~1.4版本下载链接：~
 
-https://spiritlhl.lanzoui.com/iILaHrfwbrc
+~https://spiritlhl.lanzoui.com/iILaHrfwbrc~
+
+燃动夏季autojs脚本
+
+还好在github上找到了一位大佬写的auto.js脚本，能用就行。
+
+脚本github地址如下：
+
+https://github.com/loong132/autojs-script
+
+auto.js脚本如下（把后缀.txt去掉就行）：
+
+下载:https://wwa.lanzoui.com/iO57xrmsrji 密码:5nr7
+
+auto.js软件如下（不要升级）：
+
+下载:https://wwa.lanzoui.com/iAXAlrmsj1c 密码:76au
+
 
 # 往后有啥类似的东西我会再更新一下帖子，欢迎在issues中提交你的类似项目。
 
