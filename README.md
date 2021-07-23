@@ -42,11 +42,13 @@ https://curl.qcloud.com/MNyiQAB1
 
 https://curl.qcloud.com/pgLkw0ot
 
-### 2021.7.21更新列表
+### 2021.7.23更新列表
 
 站长代挂站点回归，这次资源绝对够用，更新多个站点，自己看说明
 
-兜兜风被人破解加料了，现在只有autojs版本的，在限时活动区
+优惠劵自查软件，免费查优惠劵，之前的收费抢帣脚本我下架了
+
+更新动态转发抽奖机的仓库链接，原仓库被封了
 
 ### 跑模拟点击挂机
 
@@ -242,6 +244,16 @@ https://superaj.lanzoui.com/b0brgwabi
 
 下载链接：https://spiritlhl.lanzoui.com/ikbeSr7ppqf
 
+### 狗东优惠劵查询
+
+支持：支持exe文件的电脑或云服务器
+
+链接：
+
+（已反代理加速，直接点开直连打开即可）
+
+[点我跳转页面](https://git.spiritlhl.workers.dev/spiritLHL/personal/releases/tag/1.0)
+
 
 ### 苏宁狗东鲸鱼助手(5月更新)
 
@@ -268,20 +280,6 @@ Q群插件版本链接(可搭建自己的群机器人使用)
 https://spiritlhl.lanzoui.com/b016fodrc
 
 密码:d2tl
-
-
-
-### 狗东收费抢帣
-
-(会偷你的助力，但你如果用了滑稽东它偷不着了，滑稽东助力用得更早点）
-
-支持：电脑，云服务器
-
-挂机抢卷(和上面同一个作者同样是易语言写的，可能有毒，抢各种优惠卷，对我来说意义不大，经常购物的可以试试) 
-
-https://spiritlhl.lanzoui.com/ijv6umzulwf
-
-
 
 
 ### 狗东蓝币抢兑助手
@@ -411,11 +409,9 @@ https://spiritlhl.lanzoui.com/iCbJrrbqgte
 
 浏览器版本已跑路，详情请加作者群了解。
 
-本地执行和云端执行的github仓库链接(没跑路，但使用文档需要加群拿)
+本地执行和云端执行的gitee仓库链接(没跑路，但使用文档需要加群拿)
 
-（已反代理加速，直接点开直连打开即可）
-
-[点我跳转页面](https://git.spiritlhl.workers.dev/shanmite/LotteryAutoScript#%E5%AE%9A%E6%97%B6%E8%BF%90%E8%A1%8Cutc0)
+[点我跳转页面](https://gitee.com/shanmite/LotteryAutoScript)
 
 
 老项目了，最近可以用nodejs本地部署cmd执行，可以挂在云服务器上，中不中奖比较看人品，随缘挂。
