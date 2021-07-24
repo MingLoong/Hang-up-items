@@ -42,13 +42,11 @@ https://curl.qcloud.com/MNyiQAB1
 
 https://curl.qcloud.com/pgLkw0ot
 
-### 2021.7.23更新列表
+### 2021.7.24更新列表
 
 站长代挂站点回归，这次资源绝对够用，更新多个站点，自己看说明
 
-优惠劵自查软件，免费查优惠劵，之前的收费抢帣脚本我下架了
-
-更新动态转发抽奖机的仓库链接，原仓库被封了
+更新东东助手链接，原版本已失效
 
 ### 跑模拟点击挂机
 
@@ -392,16 +390,11 @@ https://gitee.com/spiritlhl/qr-code-set
 
 原帖链接：https://www.52pojie.cn/thread-1472238-1-1.html
 
-个人转存链接：https://spiritlhl.lanzoui.com/ipcPTr6x03e
+作者蓝奏云详情地址：
 
-低调使用，第三方作者修复，不知道有没有后门，自行判断
+https://aming123.lanzoui.com/b05hc6pne
 
-2.0版本
-
-个人转存链接：
-
-https://spiritlhl.lanzoui.com/iCbJrrbqgte
-
+密码:2v0m
 
 ### 动态转发抽奖机(自动抽奖)
 
