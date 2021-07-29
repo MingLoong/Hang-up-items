@@ -393,7 +393,7 @@ https://gitee.com/spiritlhl/qr-code-set
 
 原帖链接：https://www.52pojie.cn/thread-1472238-1-1.html
 
-也要加作者Q群才能用了。。。好难入群就是了
+也要加作者Q群才能用了。。。审核很慢，但还是能入的，QQ账号有两个太阳就成
 
 作者蓝奏云详情地址：
 
