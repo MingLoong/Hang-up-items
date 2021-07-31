@@ -54,9 +54,9 @@ https://curl.qcloud.com/pgLkw0ot
 
 注册后请及时更新自己账户信息再领取免费机子，否则会无法过审核，一定要使用随机生成的虚拟英文地址和随机英文信息。
 
-这个注册信息可以在这里找：http://www.haoweichi.com/
+这个注册账户信息可以在这里找：http://www.haoweichi.com/
 
-免费地址：https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php
+注册免费机子地址：https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php
 
 每人限制领一台，缺点是只有IPV6地址，不是所有网都连的上，自己测一下环境支不支持IPV6
 
@@ -419,7 +419,9 @@ https://gitee.com/spiritlhl/qr-code-set
 
 原帖链接：https://www.52pojie.cn/thread-1472238-1-1.html
 
-也要加作者Q群才能用了。。。审核很慢，但还是能入的，QQ账号有两个太阳就成
+~也要加作者Q群才能用了。。。审核很慢，但还是能入的，QQ账号有两个太阳就成~
+
+聊胜于无，还不如给我代挂
 
 作者蓝奏云详情地址：
 
