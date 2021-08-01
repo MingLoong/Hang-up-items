@@ -50,31 +50,7 @@ https://curl.qcloud.com/pgLkw0ot
 
 # 好消息，良心永久免费云服务器(仅支持Linux系统)
 
-**晚上出长文博客教程**
-
-推荐使用yandex.com的邮箱进行注册，否则会注册收不到信息
-
-注册后请及时更新自己账户信息再领取免费机子，否则会无法过审核，一定要使用随机生成的虚拟英文地址和随机英文信息。
-
-这个注册账户信息可以在这里找：[http://www.haoweichi.com/](http://www.euserv.com/?pk=9b15448161583a1)
-
-注册免费机子地址：https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php
-
-每人限制领一台，缺点是只有IPV6地址，不是所有网都连的上，自己测一下环境支不支持IPV6
-
-测试地址：http://www.test-ipv6.com/
-
-配置很低，我只搭了某V2
-
-需要每月续期，但是有自动续期的腾讯云函数脚本，详见下方仓库
-
-[点我跳转链接](https://git.spiritlhl.workers.dev/o0oo0ooo0/EUserv_extend)
-
-拿到机子后的相关踩坑教程：https://tzchz.home.blog/2020/08/15/17-euserv1i/
-
-重点看教程里的**四**，连上ssh首先输入那串命令，不然机子无法访问IPV4的资源，啥都安装不了
-
-还是不懂，可以点击联系--->[我](https://jq.qq.com/?_wv=1027&k=SmmmauaR)，有时间帮你看看(我是群主)
+博客教程：[点我跳转](https://www.spiritlhl.top/54/)
 
 ### 跑模拟点击挂机
 
