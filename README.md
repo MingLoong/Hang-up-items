@@ -50,11 +50,13 @@ https://curl.qcloud.com/pgLkw0ot
 
 # 好消息，良心永久免费云服务器(仅支持Linux系统)
 
+**晚上出长文博客教程**
+
 推荐使用yandex.com的邮箱进行注册，否则会注册收不到信息
 
 注册后请及时更新自己账户信息再领取免费机子，否则会无法过审核，一定要使用随机生成的虚拟英文地址和随机英文信息。
 
-这个注册账户信息可以在这里找：http://www.haoweichi.com/
+这个注册账户信息可以在这里找：[http://www.haoweichi.com/](http://www.euserv.com/?pk=9b15448161583a1)
 
 注册免费机子地址：https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php
 
