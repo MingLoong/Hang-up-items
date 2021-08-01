@@ -50,7 +50,9 @@ https://curl.qcloud.com/pgLkw0ot
 
 # 好消息，良心永久免费云服务器(仅支持Linux系统)
 
-博客教程：[点我跳转](https://www.spiritlhl.top/54/)
+原博客链接，有挂了梯子的点这个：[点我跳转](https://www.spiritlhl.top/54/)
+
+反代理博客链接，国内直连的点这个：[点我跳转](https://blog.spiritlhl.workers.dev/54/)
 
 ### 跑模拟点击挂机
 
