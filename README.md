@@ -1,12 +1,17 @@
-# 所有GitHub链接都已反代理加速，除了不能登陆账号，所有行为都加速了，直连点击即可。
+
+# 个人收集的一些资源
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+## 所有GitHub链接都已反代理加速，除了不能登陆账号，所有行为都加速了，直连点击即可。
 
 右上角是我的博客，某些教程会放归档的电脑技巧那里，有需要自行查看。
 
-# 国内需要下载GitHub仓库文件还是用这个吧
+## 国内需要下载GitHub仓库文件还是用这个吧
 
 https://ghproxy.com/
 
-# 2020问卷调查合集
+## 2020问卷调查合集
 
 收奖网http://www.sojiang.com/i.aspx?c=1-11501664
 
@@ -34,25 +39,29 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 这个提现要求有点高，得满6000积分或者10000积分，也就是说做大概十五个调查问卷(一个300~500积分)才能提现，但是耗时少回报丰厚，比不上收奖网。
 
-# 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
+## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.7.31更新列表
+### 2021.8.2更新列表
 
 站长代挂站点回归，这次资源绝对够用，更新多个站点，自己看说明
 
-新增免费机子链接(很低的配置)
+新增免费机子链接(很低的配置，仅限linux系统，没有需求别申请，很考验耐心)
 
-# 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
+## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
 https://curl.qcloud.com/MNyiQAB1
 
 https://curl.qcloud.com/pgLkw0ot
 
-# 好消息，良心永久免费云服务器(仅支持Linux系统)
+## 白嫖永久免费云服务器(仅支持Linux系统)
 
 原博客链接，有挂了梯子的点这个：[点我跳转](https://www.spiritlhl.top/54/)
 
 反代理博客链接，国内直连的点这个：[点我跳转](https://blog.spiritlhl.workers.dev/54/)
+
+反代理后的博客加载图片速度更快，一共37张图。。。
+
+没需求别整，耗时间又费力气
 
 ### 跑模拟点击挂机
 
@@ -419,10 +428,7 @@ https://aming123.lanzoui.com/b05hc6pne
 
 [点我跳转页面](https://gitee.com/shanmite/LotteryAutoScript)
 
-
 老项目了，最近可以用nodejs本地部署cmd执行，可以挂在云服务器上，中不中奖比较看人品，随缘挂。
-
-
 
 
 ### 某站挂机软件
@@ -444,6 +450,7 @@ https://rialll.lanzoux.com/b07m60hoh
 链接
 
 https://gitee.com/yijianguanzhu/douyu-hongbao
+
 
 ### weixin步数挂机每日修改
 
