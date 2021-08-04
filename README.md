@@ -47,7 +47,9 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 更新狗东评价助手，自动评价商品
 
-今天晚上预备更新青龙批量上传ck的脚本，大概会发到博客里作为教程
+更新批量上传ck的仓库，自己去我仓库找吧，懒得写博客了
+
+仓库链接：https://github.com/spiritLHL/qinglong_auto_push_cks
 
 ## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
