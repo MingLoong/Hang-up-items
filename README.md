@@ -49,6 +49,8 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 更新任务小辅，手机端完成一些任务，和我的代挂任务重合，聊胜于无
 
+更新白嫖免费云桌面(VNC)教程，有需要自取
+
 ## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
 https://curl.qcloud.com/MNyiQAB1
@@ -64,6 +66,14 @@ https://curl.qcloud.com/pgLkw0ot
 反代理后的博客加载图片速度更快，一共37张图。。。
 
 没需求别整，耗时间又费力气
+
+## 白嫖免费云桌面(VNC)
+
+注意，该服务需要访问境外服务器，自己配好环境再点击下方链接↓
+
+我的仓库链接：[点我跳转](https://github.com/spiritLHL/Free-Desktop)
+
+每个月限额550小时，没有网络请求服务会在30分钟后休眠，没有需求别整这个。
 
 ### 跑模拟点击挂机
 
