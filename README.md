@@ -51,6 +51,8 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 更新白嫖免费云桌面(VNC)教程，有需要自取
 
+更新欢太商城刷积分脚本
+
 ## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
 https://curl.qcloud.com/MNyiQAB1
@@ -441,6 +443,14 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 注意：内含作者的推广链接，自己分辨。
 
 链接：https://spiritlhl.lanzoui.com/ibM8Qpuau8d
+
+## 欢太商城刷积分脚本
+
+支持：含python3的环境都可运行
+
+新号得先手动进入一次任务界面，不然做任务会报错。
+
+仓库：[点我跳转页面](https://git.spiritlhl.workers.dev/hwkxk/HeytapTask)
 
 
 # 有时效性的脚本(只为某段时间内的活动而出现的脚本)
