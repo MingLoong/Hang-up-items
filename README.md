@@ -41,15 +41,13 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.8.4更新列表
+### 2021.8.5更新列表
 
 站长代挂站点更新前端面板，使用更方便，这次资源绝对够用，更新多个站点，自己看说明
 
-更新狗东评价助手，自动评价商品
+签到站点用的别人的前端，按照提示操作即可
 
-更新批量上传ck的仓库，自己去我仓库找吧，懒得写博客了
-
-仓库链接：https://github.com/spiritLHL/qinglong_auto_push_cks
+更新任务小辅，手机端完成一些任务，和我的代挂任务重合，聊胜于无
 
 ## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
@@ -176,10 +174,6 @@ https://honeyminer.com/referred/6dwn5
 
 [点我跳转链接](https://git.spiritlhl.workers.dev/curtinlv/JD-Script/)
 
-~~它需要获取cookie，你可以私信我cookie我代挂顺带入会。~~
-
-
-
 ### 狗东退会脚本
 
 支持：win系统电脑，最好是有开移动热点功能的笔记本电脑
@@ -190,18 +184,11 @@ https://honeyminer.com/referred/6dwn5
 
 [点我跳转链接](https://git.spiritlhl.workers.dev/yqchilde/JDMemberCloseAccount)
 
+## 批量上传ck
 
-### 技术力比较高的JS脚本合集仓库
+更新批量上传ck的仓库，自己去我仓库找吧，懒得写博客了
 
-支持：各大平台（除云函数）
-
-配置特别繁琐，这里只是脚本仓库，具体使用自己悟
-
-仓库链接如下：（已反代理加速，直接点开直连打开即可）
-
-~[点我跳转链接](https://git.spiritlhl.workers.dev/sngxpro/QuanX/)~
-
-已失效，有时间我再整理一下发出来。
+仓库链接：https://github.com/spiritLHL/qinglong_auto_push_cks
 
 
 ### 狗东JS脚本合集简易本地版
@@ -293,33 +280,6 @@ https://spiritlhl.lanzoui.com/b016fodrc
 
 密码:d2tl
 
-
-### 狗东蓝币抢兑助手
-
-(会偷你的助力，但你如果用了滑稽东它偷不着了，滑稽东助力用得更早点）
-
-支持：电脑，云服务器
-
-爱签到-小超市礼品抢兑软件(和上面同一个作者同样是易语言写的，可能有毒，使用方法详见软件内置解释)
-
-https://spiritlhl.lanzoui.com/ivd4xninued
-
-
-
-### 狗东急速红包每日自动领0.3~0.5元到微信
-
-(会偷你的助力，但你如果用了滑稽东它偷不着了，滑稽东助力用得更早点）
-
-支持：电脑，云服务器
-
-链接: 
-
-https://spiritlhl.lanzoui.com/iIM5yphz0ob
-
-具体功能如题。
-
-
-
 ### 腾讯薅话费助手
 
 支持：电脑，云服务器
@@ -398,13 +358,12 @@ https://gitee.com/spiritlhl/qr-code-set
 
 这个软件不再有更新了，原版的删除了很多功能，原因是作者为了避免侵权。
 
-### 东东助手
+
+### 东东签到助手
 
 支持:win系统电脑，云服务器
 
 原帖链接：https://www.52pojie.cn/thread-1472238-1-1.html
-
-~也要加作者Q群才能用了。。。审核很慢，但还是能入的，QQ账号有两个太阳就成~
 
 聊胜于无，还不如给我代挂
 
@@ -413,6 +372,14 @@ https://gitee.com/spiritlhl/qr-code-set
 https://aming123.lanzoui.com/b05hc6pne
 
 密码:2v0m
+
+
+### 狗东任务小辅
+
+支持：安卓系统手机
+
+蓝奏云链接：https://spiritlhl.lanzoui.com/idJkHs9bgdc
+
 
 ### 动态转发抽奖机(自动抽奖)
 
@@ -467,18 +434,6 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 
 
 # 有时效性的脚本(只为某段时间内的活动而出现的脚本)
-
-~618狗东活动脚本~
-
-~燃动夏季兜兜风大佬脚本~
-
-~缺点：需要加入作者Q群836217980验证~
-
-~支持：win系统电脑，云服务器~
-
-~1.4版本下载链接：~
-
-~https://spiritlhl.lanzoui.com/iILaHrfwbrc~
 
 燃动夏季autojs脚本
 
