@@ -41,11 +41,11 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.8.5更新列表
+### 2021.8.6更新列表
 
 站长代挂站点回归
 
-更新撸免费虚拟主机的项目
+更新撸免费虚拟主机的项目，只能拿来做网站啥的
 
 ## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
@@ -76,6 +76,8 @@ https://curl.qcloud.com/pgLkw0ot
 链接：[https://www.cccyun.net/?invite=194452](https://www.cccyun.net/?invite=194452)
 
 首页是显示无货的，需要的得先注册，然后到订购产品里找免费虚拟主机。
+
+没需要别整，这个只能搭网站
 
 ### 跑模拟点击挂机
 
