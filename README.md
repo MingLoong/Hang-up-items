@@ -41,9 +41,9 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.8.6更新列表
+### 2021.8.7更新列表
 
-站长代挂站点回归
+站长代挂站点回归，更换签到站点前端，原前端已失效，已经扫上的不用管
 
 更新撸免费虚拟主机的项目，只能拿来做网站啥的
 
@@ -172,7 +172,7 @@ https://honeyminer.com/referred/6dwn5
 
 [互助站点1](http://43.132.171.233:5901/)
 
-[签到站点](http://a.spiritysdx.top:8888/)
+[签到站点](http://a.spiritysdx.top:29099/)
 
 互助站点撸红包(有效期短)，签到站点撸京豆(有效期长)。
 
