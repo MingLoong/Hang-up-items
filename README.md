@@ -41,11 +41,11 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.8.9更新列表
+### 2021.8.10更新列表
 
 站长代挂站点回归，更换签到站点前端，原前端已失效，已经扫上的不用管
 
-更新微信步数修改的吾爱大神版
+删除过期的限时活动脚本
 
 ## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
@@ -463,21 +463,7 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 
 # 有时效性的脚本(只为某段时间内的活动而出现的脚本)
 
-燃动夏季autojs脚本
-
-还好在github上找到了一位大佬写的auto.js脚本，能用就行。
-
-脚本github地址如下：
-
-https://github.com/loong132/autojs-script
-
-auto.js脚本如下（把后缀.txt去掉就行）：
-
-下载:https://wwa.lanzoui.com/iO57xrmsrji 密码:5nr7
-
-auto.js软件如下（不要升级）：
-
-下载:https://wwa.lanzoui.com/iAXAlrmsj1c 密码:76au
+暂时无
 
 
 # 往后有啥类似的东西我会再更新一下帖子，欢迎在issues中提交你的类似项目。
