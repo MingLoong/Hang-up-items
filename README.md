@@ -41,11 +41,13 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.8.10更新列表
+### 2021.8.12更新列表
 
 站长代挂站点回归，更换签到站点前端，原前端已失效，已经扫上的不用管
 
 更新签到站点前端，支持push+和QQ绑定账号
+
+更新wx步数修改的适配环境
 
 ## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
@@ -433,13 +435,15 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 
 ### weixin步数挂机每日修改
 
-~适配：腾讯云函数，本地有python环境的系统~
+适配：腾讯云函数，本地有python环境的系统
 
-~链接：~
+帖子链接：https://www.52pojie.cn/thread-1492682-1-1.html
 
-~[点我跳转页面](https://git.spiritlhl.workers.dev/spiritLHL/weixinbushu)~
+个人转录仓库链接：
 
-原仓库失效，新的由吾爱大神修复
+（已反代理加速，直接点开直连打开即可）
+
+[点我跳转页面](https://git.spiritlhl.workers.dev/spiritLHL/weixinbushu)
 
 适配：win系统
 
