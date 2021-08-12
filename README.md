@@ -45,7 +45,7 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 站长代挂站点回归，更换签到站点前端，原前端已失效，已经扫上的不用管
 
-删除过期的限时活动脚本
+更新签到站点前端，支持push+和QQ绑定账号
 
 ## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
@@ -172,7 +172,7 @@ https://honeyminer.com/referred/6dwn5
 
 [互助站点1](http://43.132.171.233:5901/)
 
-[签到站点](http://a.spiritysdx.top:29099/)
+[签到站点](http://a.spiritysdx.top:8888/)
 
 互助站点撸红包(有效期短)，签到站点撸京豆(有效期长)。
 
