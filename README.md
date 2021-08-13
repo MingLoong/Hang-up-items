@@ -13,7 +13,7 @@ https://ghproxy.com/
 
 ## 2020问卷调查合集
 
-收奖网[http://www.sojiang.com/](http://www.sojiang.com/i.aspx?c=1-11501664)
+收奖网http://www.sojiang.com/i.aspx?c=1-11501664
 
 爱调查http://www.52survey.com/inviteFriend.mdq?ue=2006281
 
@@ -47,7 +47,7 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 推送有点bug。。。查不到过去几天的只能获取现在有多少豆子。。。有需求找站长查吧
 
-更新东东助手暂时下线，三日后回归，作者说明的
+更新东东助手暂时下线，三日后回归，作者个人原因这个软件下线三天
 
 ## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
