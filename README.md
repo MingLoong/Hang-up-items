@@ -13,7 +13,7 @@ https://ghproxy.com/
 
 ## 2020问卷调查合集
 
-收奖网http://www.sojiang.com/i.aspx?c=1-11501664
+收奖网[http://www.sojiang.com/](http://www.sojiang.com/i.aspx?c=1-11501664)
 
 爱调查http://www.52survey.com/inviteFriend.mdq?ue=2006281
 
@@ -45,7 +45,9 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 站长代挂站点回归，更新签到站点前端，支持push+和QQ绑定账号
 
-推送有点bug。。。查不到过去几天的只能获取有多少豆子。。。有需求找站长查吧
+推送有点bug。。。查不到过去几天的只能获取现在有多少豆子。。。有需求找站长查吧
+
+更新东东助手暂时下线，三日后回归，作者说明的
 
 ## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
 
@@ -61,7 +63,7 @@ https://curl.qcloud.com/pgLkw0ot
 
 反代理后的博客加载图片速度更快，一共37张图。。。
 
-没需求别整，耗时间又费力气
+没需求别整，耗时间又费力气，审核很看人
 
 ## 白嫖免费云桌面(VNC)
 
@@ -69,7 +71,7 @@ https://curl.qcloud.com/pgLkw0ot
 
 我的仓库链接：[点我跳转](https://github.com/spiritLHL/Free-Desktop)
 
-每个月限额550小时，没有网络请求服务会在30分钟后休眠，没有需求别整这个。
+每个月限额550小时，没有网络请求服务会在30分钟后休眠，没有需求别整这个，容易封号。
 
 ## 白嫖免费虚拟主机
 
@@ -103,9 +105,6 @@ Honeygain消耗流量挂机(如果是国内IP，还是算了吧，一天有0.1�
 （这个不能挂云服务器，云服务器的ip是CDN分发还是什么的，不是固定IP没法挂）
 
 https://r.honeygain.me/24610E80CD      
-
-
-
 
 ### 跑流量挂机    
 
@@ -390,6 +389,8 @@ https://gitee.com/spiritlhl/qr-code-set
 https://aming123.lanzoui.com/b05hc6pne
 
 密码:2v0m
+
+三日后服务上线，现在暂时下线
 
 
 ### 狗东任务小辅
