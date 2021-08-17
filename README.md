@@ -13,31 +13,25 @@ https://ghproxy.com/
 
 ## 2020问卷调查合集
 
-收奖网http://www.sojiang.com/i.aspx?c=1-11501664
+收奖网 http://www.sojiang.com/i.aspx?c=1-11501664
 
-爱调查http://www.52survey.com/inviteFriend.mdq?ue=2006281
+爱调查 http://www.52survey.com/inviteFriend.mdq?ue=2006281
 
-集思吧https://www.jisiba.com/invite?code=0evr9q
+集思吧 https://www.jisiba.com/invite?code=0evr9q
 
-lifepoints网https://www.lifepointspanel.com/
+lifepoints网 https://www.lifepointspanel.com/
 
-拼任务app端https://www.taidu8.com/common/share/#/homeshare
+拼任务app端 https://www.taidu8.com/common/share/#/homeshare
 
-拼任务网页端https://www.taidu8.com/pc/#/surveyList
+拼任务网页端 https://www.taidu8.com/pc/#/surveyList
 
-Rakuten Insight网https://www.aipsurveyschina.com/s/member
+Rakuten Insight网 https://www.aipsurveyschina.com/s/member
+
+yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 强烈推荐lifepoints和收奖网，一个回报丰厚一个耗时最少。
 
 2021年了，目前我还在坚持使用的只有收奖网了，其他的耗时多收益低，没那时间了。
-
-2021新增↓↓↓
-
-yougov调查网
-
-https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
-
-这个提现要求有点高，得满6000积分或者10000积分，也就是说做大概十五个调查问卷(一个300~500积分)才能提现，但是耗时少回报丰厚，比不上收奖网。
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
@@ -47,7 +41,7 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 互助站点三可能时不时有问题，建议有发现服务中断联系站长。
 
-更新挂机刷流量的三个项目。
+更新挂机刷流量的三个项目，过几天写使用感受。
 
 ## 没云服务器的可以点下面这个买，不保证回本嗷！！！
 
