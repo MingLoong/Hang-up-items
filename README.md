@@ -47,9 +47,9 @@ https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzTHLgjw
 
 互助站点三可能时不时有问题，建议有发现服务中断联系站长。
 
-更新挂机刷流量的两个项目。
+更新挂机刷流量的三个项目。
 
-## 没云服务器的点下面这个买吧，一个月回本，如果挂下面的脚本的话
+## 没云服务器的可以点下面这个买，不保证回本嗷！！！
 
 https://curl.qcloud.com/MNyiQAB1
 
@@ -133,18 +133,27 @@ https://iproyal.com/pawns?r=97082
 
 链接：[https://www.onethingcloud.com/acts/invite?inviteid=e03e6e93](https://www.onethingcloud.com/acts/invite?inviteid=e03e6e93)
 
-
 ## 上面三个可以一起挂，不影响各自收益
 
 ### 甜糖挂机
 
 支持：真实IP的环境可开UPUP服务的路由器环境的电脑或手机
 
+提现直接到账国内账户，不需要paypal中转
+
 领取新人奖励，可以填写我的邀请码：```406986```
 
 收益看需求，看地区
 
 链接：https://www.tiptime.cn/
+
+### 跑流量挂机(提现需要paypal账号)
+
+支持：真实ip的电脑
+
+提现到paypal
+
+链接：https://packetstream.io/?psr=2G9p
 
 ### cryptotab
 
