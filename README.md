@@ -41,6 +41,8 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 更新苏宁狗东试用助手帖子链接，原帖子已失效
 
+更新某公众号的软件收集(含破)
+
 ## 没云服务器的可以点下面这个买，不保证回本嗷！！！
 
 https://curl.qcloud.com/MNyiQAB1
@@ -498,6 +500,14 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 新号得先手动进入一次任务界面，不然做任务会报错。
 
 仓库：[点我跳转页面](https://git.spiritlhl.workers.dev/hwkxk/HeytapTask)
+
+## 某公众号的软件收集(含破)
+
+事先声明，不保证里面资源有用且无毒，自己评判，我只是收集者
+
+TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
+
+手机APP有破的去广告专区：https://ufoclz.lanzoui.com/b00zg8a3i 密码:emtl
 
 
 # 有时效性的脚本(只为某段时间内的活动而出现的脚本)
