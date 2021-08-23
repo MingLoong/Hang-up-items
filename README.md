@@ -35,11 +35,11 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.8.23更新列表
+### 2021.8.24更新列表
 
 站长代挂站点回归，更新签到站点前端，支持push+和QQ绑定账号
 
-互助站点暂时下线，扫码问题待修复，签到站点也待修复
+互助站点暂时下线，扫码问题待修复，签到站点已修复
 
 更新安卓万能抓包工具，工具包在本仓库release
 
@@ -205,7 +205,7 @@ https://honeyminer.com/referred/6dwn5
 
 ~[互助站点1](http://43.132.171.233:5901/)~
 
-~[签到站点](http://a.spiritysdx.top:8888/)~
+[签到站点](http://a.spiritysdx.top:8888/)
 
 待修复
 
