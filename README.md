@@ -207,7 +207,7 @@ https://honeyminer.com/referred/6dwn5
 
 [签到站点](http://a.spiritysdx.top:8888/)
 
-待修复
+互助站点待修复，签到站点正常使用
 
 互助站点撸红包(有效期短)，签到站点撸京豆(有效期长)。
 
@@ -510,6 +510,14 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 
 手机APP有破的去广告专区：https://ufoclz.lanzoui.com/b00zg8a3i 密码:emtl
+
+## 安卓万能抓包工具
+
+支持：win10系统，连接上USB的手机
+
+安卓万能抓包工具，工具包在本仓库右上角的release里
+
+个人使用还行，配合一些js脚本可以挂一些小毛软件，实现每日低保收益
 
 
 # 有时效性的脚本(只为某段时间内的活动而出现的脚本)
