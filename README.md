@@ -35,13 +35,13 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.8.24更新列表
+### 2021.8.26更新列表
 
-站长代挂站点回归，更新签到站点前端，支持push+和QQ绑定账号
+站长代挂站点回归，更新签到站点前端，支持QQ绑定账号推送每日消息
 
-互助站点暂时下线，扫码问题待修复，签到站点已修复
+互助站点暂时下线，扫码问题待修复，明天我换个前端试试，签到站点正常
 
-更新安卓万能抓包工具，工具包在本仓库release
+更新狗东评价助手的新版本
 
 ## 没云服务器的可以点下面这个买，不保证回本嗷！！！
 
@@ -292,9 +292,9 @@ https://superaj.lanzoui.com/b0brgwabi
 
 支持：win系统电脑，云服务器
 
-(8.4更新，无需加群验证)
+(8.26更新，无需加群验证)
 
-下载链接：https://spiritlhl.lanzoui.com/i8AIzs7ojad
+下载链接：https://spiritlhl.lanzoui.com/iy1kXt7pade
 
 ### 狗东优惠劵查询
 
