@@ -37,8 +37,6 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 ### 2021.8.27更新列表
 
-站长代挂站点回归
-
 站点暂时跑路了各位，第二波寒潮已经到了
 
 ## 没云服务器的可以点下面这个买，不保证回本嗷！！！
