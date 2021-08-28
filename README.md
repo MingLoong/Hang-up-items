@@ -35,9 +35,11 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.8.27更新列表
+### 2021.8.28更新列表
 
-站点暂时跑路了各位，第二波寒潮已经到了
+狗东站点暂时跑路，寒冬仍未过去
+
+更新某站养号仓库，作者有自己建立站点，不一定得自己搭，可以自己看看，当然需要我的站点也可以issues留下联系方式我联系你
 
 ## 没云服务器的可以点下面这个买，不保证回本嗷！！！
 
@@ -430,6 +432,19 @@ https://rialll.lanzoux.com/b07m60hoh
 链接
 
 https://gitee.com/yijianguanzhu/douyu-hongbao
+
+
+### 某站(B)养号项目
+
+支持：docker，linux服务器
+
+项目地址：[点我跳转页面](https://git.spiritlhl.workers.dev/JunzhouLiu/BILIBILI-HELPER-PRE)
+
+有大佬写了配套的前端和后端，方便多人使用
+
+项目地址：[点我跳转页面](https://git.spiritlhl.workers.dev/Cruii/bilibili-helper-hub)
+
+需要我挂的issues留下联系方式，上面的作者也有站点，也可以去他那挂，但是不知道他资源还有剩余不
 
 
 ### weixin步数挂机每日修改
