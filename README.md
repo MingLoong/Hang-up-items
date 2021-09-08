@@ -3,7 +3,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## 所有GitHub链接都已反代理加速，除了不能登陆账号，所有行为都加速了，直连点击即可。
+## 左上角有三个横线，点击后有本资源的目录，不用翻很久找资源！
+
+## 所有GitHub链接标识已反代理加速的都已经反代理了，除了不能登陆账号，所有行为都加速了，直连点击即可，部分不重要的链接我没有反代理
 
 右上角是我的博客，某些教程会放归档的电脑技巧那里，有需要自行查看。
 
@@ -35,13 +37,25 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.8.31更新列表
+### 2021.9.8更新列表
 
-狗东站点又回来了，具体怎么解决不能明说，有需要联系站长，低调使用！！！已经第二轮风波了！！
+更新部分说明，增加一些活动消息
 
 ## 没云服务器的可以点下面这个买，不保证回本嗷！！！
 
+### 云服务器活动
+
+顺序从上到下，优惠力度逐渐变小
+
+74元2核4G云服务器一年，仅限没买过的买
+
+https://curl.qcloud.com/tPrMnfZm
+
+学生机，限定25岁以下的买
+
 https://curl.qcloud.com/MNyiQAB1
+
+无忧计划，随便找几个人助力就有资格了，优点是续费同价，适合长期使用
 
 https://curl.qcloud.com/pgLkw0ot
 
@@ -57,11 +71,13 @@ https://curl.qcloud.com/pgLkw0ot
 
 ## 白嫖免费云桌面(VNC)
 
+没有需求别整这个，容易封号！！！
+
 注意，该服务需要访问境外服务器，自己配好环境再点击下方链接↓
 
 我的仓库链接：[点我跳转](https://github.com/spiritLHL/Free-Desktop)
 
-每个月限额550小时，没有网络请求服务会在30分钟后休眠，没有需求别整这个，容易封号。
+每个月限额550小时，没有网络请求服务会在30分钟后休眠。
 
 ## 白嫖免费虚拟主机
 
@@ -175,11 +191,21 @@ https://honeyminer.com/referred/6dwn5
 
 # 低调低调再低调！！！别到处乱传我真是谢谢了，特别是狗东的，乱传会导致作者删库跑路！那些发论坛发大平台炫耀的，纯属傻批！现在已经第二轮退圈潮了！！！
 
-### 狗东免费代挂站点
+## 狗东免费代挂站点
 
-又跑路回来了，具体怎么解决不能明说，有需求联系站长
+又回来了，具体怎么解决不能明说，有需求联系站长
+
+默认使用你的助力
+
+自己有写一些东西，已经发仓库里了
+
+仓库链接：https://github.com/spiritLHL/qinglong_auto_tools
+
+自己写的当然自己都用上了
 
 [点我联系站长](https://jq.qq.com/?_wv=1027&k=C3jq2vpd)
+
+# 狗东脚本收集
 
 ### 狗东入会脚本(每天两次)
 
@@ -187,7 +213,7 @@ https://honeyminer.com/referred/6dwn5
 
 （这个没有助力活动）
 
-头一次能领1000+豆子，往后每次领大概50+，可以在云服务器中定时运行。
+头一次能领800+豆子，往后每次领大概50+，可以在云服务器中定时运行。
 
 仓库链接如下：（已反代理加速，直接点开直连打开即可）
 
@@ -209,7 +235,6 @@ https://honeyminer.com/referred/6dwn5
 
 仓库链接：https://github.com/spiritLHL/qinglong_auto_push_cks
 
-
 ### 狗东JS脚本合集简易本地版
 
 支持：win系统，已安装node环境的
@@ -220,8 +245,6 @@ https://honeyminer.com/referred/6dwn5
 
 [点我跳转链接](https://git.spiritlhl.workers.dev/jxmc11/jd_node_pc)
 
-
-
 ### 滑稽东
 
 支持：电脑，云服务器
@@ -229,9 +252,6 @@ https://honeyminer.com/referred/6dwn5
 滑稽东自动完成狗东任务薅羊毛(还行，就是默认使用你的助力，你也可以申请别人的助力，但```要早点提交助力申请```不然资源分配没了，```试用用三合一那个```) 
 
 https://www.lanzoux.com/b957303
-
-
-
 
 ### 三合一狗东助手
 
@@ -283,7 +303,60 @@ https://superaj.lanzoui.com/b0brgwabi
 
 下载链接详见原帖
 
+### 52签到助手
 
+支持：电脑，云服务器
+
+（作者已经停更，服务器关闭了，只留下原版）
+
+支持狗东，B站，值得买等网站的自动定时签到和做任务，可以配置微信信息推送。
+
+原版链接：https://spiritlhl.lanzoui.com/iOHcmpdksab
+
+历代版本链接：(不保证可用)
+
+2.1.1版本：https://spiritlhl.lanzoui.com/imWDanny2kh
+
+密码:rpgd
+
+2.2版本：https://spiritlhl.lanzoui.com/iK2fxo1u9wb
+
+密码:wwrt
+
+2.2.19版本：https://spiritlhl.lanzoui.com/izn73ouc97c
+
+密码:ppiu
+
+2.0版本的node.dll文件，可替换降级版本：https://spiritlhl.lanzoui.com/iL4HRpdl2vc
+
+这个软件不再有更新了，原版的删除了很多功能，原因是作者为了避免侵权。
+
+
+### 东东签到助手
+
+支持:win系统电脑，云服务器
+
+原帖链接：https://www.52pojie.cn/thread-1472238-1-1.html
+
+聊胜于无，还不如给我代挂
+
+作者蓝奏云详情地址：
+
+https://aming123.lanzoui.com/b05hc6pne
+
+密码:2v0m
+
+三日后服务上线，现在暂时下线
+
+
+### 狗东任务小辅
+
+支持：安卓系统手机
+
+蓝奏云链接：https://spiritlhl.lanzoui.com/idJkHs9bgdc
+
+
+# 其他脚本收集
 
 ### 燃鹅辅助
 
@@ -345,61 +418,6 @@ https://gitee.com/spiritlhl/qr-code-set
 
 
 下载链接 https://spiritlhl.lanzoui.com/i2GwToxj14b
-
-
-
-
-### 52签到助手
-
-支持：电脑，云服务器
-
-（作者已经停更，服务器关闭了，只留下原版）
-
-支持狗东，B站，值得买等网站的自动定时签到和做任务，可以配置微信信息推送。
-
-原版链接：https://spiritlhl.lanzoui.com/iOHcmpdksab
-
-历代版本链接：(不保证可用)
-
-2.1.1版本：https://spiritlhl.lanzoui.com/imWDanny2kh
-
-密码:rpgd
-
-2.2版本：https://spiritlhl.lanzoui.com/iK2fxo1u9wb
-
-密码:wwrt
-
-2.2.19版本：https://spiritlhl.lanzoui.com/izn73ouc97c
-
-密码:ppiu
-
-2.0版本的node.dll文件，可替换降级版本：https://spiritlhl.lanzoui.com/iL4HRpdl2vc
-
-这个软件不再有更新了，原版的删除了很多功能，原因是作者为了避免侵权。
-
-
-### 东东签到助手
-
-支持:win系统电脑，云服务器
-
-原帖链接：https://www.52pojie.cn/thread-1472238-1-1.html
-
-聊胜于无，还不如给我代挂
-
-作者蓝奏云详情地址：
-
-https://aming123.lanzoui.com/b05hc6pne
-
-密码:2v0m
-
-三日后服务上线，现在暂时下线
-
-
-### 狗东任务小辅
-
-支持：安卓系统手机
-
-蓝奏云链接：https://spiritlhl.lanzoui.com/idJkHs9bgdc
 
 
 ### 动态转发抽奖机(自动抽奖)
