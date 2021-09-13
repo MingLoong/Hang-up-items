@@ -37,9 +37,9 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 ## 2021新增挂机和薅羊毛项目：(需要电脑或手机端挂机)
 
-### 2021.9.8更新列表
+### 2021.9.14更新列表
 
-更新部分说明，增加一些活动消息
+更新狗东助手小赤佬版本
 
 ## 没云服务器的可以点下面这个买，不保证回本嗷！！！
 
@@ -354,6 +354,12 @@ https://aming123.lanzoui.com/b05hc6pne
 支持：安卓系统手机
 
 蓝奏云链接：https://spiritlhl.lanzoui.com/idJkHs9bgdc
+
+### 狗东助手1.3.6(小赤佬)
+
+支持：安卓手机
+
+蓝奏云链接：https://spiritlhl.lanzoui.com/iQGartyfvkj
 
 
 # 其他脚本收集
