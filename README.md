@@ -55,6 +55,7 @@
         * [某公众号的软件收集(含破)](#某公众号的软件收集(含破))
         * [安卓万能抓包工具](#安卓万能抓包工具)
     * [有时效性的脚本(只为某段时间内的活动而出现的脚本)](#有时效性的脚本(只为某段时间内的活动而出现的脚本))
+      * [东东世界autojs脚本](#东东世界autojs脚本) 
     * [程序多开软件](#程序多开软件)
 * [后言](#后言)
 
@@ -597,7 +598,24 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 
 ## 有时效性的脚本(只为某段时间内的活动而出现的脚本)
 
-暂时无
+### 东东世界autojs脚本
+
+东东玩家活动入口：直接在京东app首页搜索‘东东玩家’即可进入
+本脚本需要安卓手机，并且下载auto.js
+auto.js下载地址：
+https://wws.lanzoui.com/id5I4u6p0gh
+密码:59ob
+
+
+因为好几个小伙伴不会使用，特此打包了脚本的代码
+脚本下载地址：
+
+链接：https://pan.baidu.com/s/1eoPX-PC0DHt8-6Msp6BG3g
+提取码：5252
+（下载完js之后直接用auto.js打开即可）
+本脚本需手动进入活动界面，且打开任务列表才可起效
+
+原帖链接：https://www.52pojie.cn/forum.php?mod=viewthread&tid=1515341&extra=page%3D1%26filter%3Dtypeid%26typeid%3D203
 
 ### 程序多开软件
 
