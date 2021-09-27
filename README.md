@@ -62,9 +62,9 @@
 
 ## 前言
 
-### 2021.9.24更新列表
+### 2021.9.27更新列表
 
-东东玩家autojs脚本稳定有效，其他该活动脚本已火爆
+东东玩家autojs脚本稳定有效，其他该活动脚本已火爆，替换转存链接，原链接已失效
 
 ## GitHub链接说明
 
@@ -602,17 +602,12 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 
 东东玩家活动入口：直接在京东app首页搜索‘东东玩家’即可进入
 本脚本需要安卓手机，并且下载auto.js
-auto.js下载地址：
-https://wws.lanzoui.com/id5I4u6p0gh
-密码:59ob
-
 
 因为好几个小伙伴不会使用，特此打包了脚本的代码
 脚本下载地址：
 
-链接：https://pan.baidu.com/s/1eoPX-PC0DHt8-6Msp6BG3g
-提取码：5252
-（下载完js之后直接用auto.js打开即可）
+链接：https://spiritlhl.lanzoui.com/iopLsuk989g
+（下载完压缩包解压后安装apk，里面的dddd.js直接用安装好的autojs软件打开即可）
 本脚本需手动进入活动界面，且打开任务列表才可起效
 
 原帖链接：https://www.52pojie.cn/forum.php?mod=viewthread&tid=1515341&extra=page%3D1%26filter%3Dtypeid%26typeid%3D203
