@@ -663,3 +663,9 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 ![](https://i.loli.net/2021/07/15/UPk5VbzAIC6OM7y.jpg)
 
 
+# 免责声明
+
+* 本仓库仅供学习
+* 不可用于商业以及非法目的,使用本代码产生的一切后果, 作者不承担任何责任.
+
+
