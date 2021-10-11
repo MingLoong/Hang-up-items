@@ -57,8 +57,6 @@
         * [每周自动领取epic免费游戏](#epic游戏每周领取)
         * [合集中的合集](#合集中的合集)
     * [有时效性的脚本(只为某段时间内的活动而出现的脚本)](#有时效性的脚本只为某段时间内的活动而出现的脚本)
-      * [东东玩家autojs脚本](#东东玩家autojs脚本) 
-      * [东东玩家autojs软件](#东东玩家autojs软件)
     * [程序多开软件](#程序多开软件)
 * [后言](#后言)
 
@@ -623,40 +621,20 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 仓库链接：https://github.com/luminoleon/epicgames-claimer
 
 
-## 有时效性的脚本只为某段时间内的活动而出现的脚本
-
-### 东东玩家autojs脚本
-
-东东玩家活动入口：直接在京东app首页搜索‘东东玩家’即可进入
-本脚本需要安卓手机，并且下载auto.js
-
-因为好几个小伙伴不会使用，特此打包了脚本的代码
-脚本下载地址：
-
-链接：https://spiritlhl.lanzoui.com/iopLsuk989g
-（下载完压缩包解压后安装apk，里面的dddd.js直接用安装好的autojs软件打开即可）
-本脚本需手动进入活动界面，且打开任务列表才可起效
-
-原帖链接：https://www.52pojie.cn/forum.php?mod=viewthread&tid=1515341&extra=page%3D1%26filter%3Dtypeid%26typeid%3D203
-
-### 东东玩家autojs软件
-
-跟上面一个类型的脚本，区别在于脚本内置到软件里了，本人没用过，转发自吾爱
-
-链接：https://wwa.lanzoui.com/b00uwabxc密码:1h6g
-
-原帖链接：https://www.52pojie.cn/thread-1519561-1-1.html
-
-### 程序多开软件
-
-原帖链接： https://www.52pojie.cn/thread-825560-1-1.html
-
-
 ### 合集中的合集
 
 未经校验，自行尝试
 
 链接：https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76
+
+
+## 有时效性的脚本只为某段时间内的活动而出现的脚本
+
+无
+
+### 程序多开软件
+
+原帖链接： https://www.52pojie.cn/thread-825560-1-1.html
 
 ## 后言
 
