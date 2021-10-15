@@ -63,9 +63,9 @@
 
 ## 前言
 
-### 2021.10.11更新列表
+### 2021.10.15更新列表
 
-更新部分说明
+更新欢太刷积分脚本仓库
 
 ## GitHub链接说明
 
@@ -598,7 +598,7 @@ https://gitee.com/yijianguanzhu/douyu-hongbao
 
 新号得先手动进入一次任务界面，不然做任务会报错。
 
-仓库：[点我跳转页面](https://git.spiritlhl.workers.dev/hwkxk/HeytapTask)
+仓库：[点我跳转页面](https://git.spiritlhl.workers.dev/Mashiro2000/HeyTapTask)
 
 ### 某公众号的软件收集含破
 
