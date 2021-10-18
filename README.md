@@ -63,9 +63,9 @@
 
 ## 前言
 
-### 2021.10.15更新列表
+### 2021.10.18更新列表
 
-更新欢太刷积分脚本仓库
+更新狗东评价助手版本1.8
 
 ## GitHub链接说明
 
@@ -355,9 +355,9 @@ https://superaj.lanzoui.com/b0brgwabi
 
 支持：win系统电脑，云服务器
 
-(8.26更新，无需加群验证)
+(10.18更新，无需加群验证)
 
-下载链接：https://spiritlhl.lanzoui.com/iy1kXt7pade
+下载链接：https://spiritlhl.lanzoui.com/iKe8Wvhag7g
 
 ### 狗东优惠劵查询
 
