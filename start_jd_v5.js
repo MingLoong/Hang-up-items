@@ -1,3 +1,6 @@
+// https://github.com/spiritLHL/Hang-up-items/edit/master/start_jd_v5.js
+// 先自己开无障碍模式和允许浮窗显示，再运行脚本
+// 这是未完善脚本，如果有的任务已经做了，该脚本无法执行
 if (!auto.service) {
     toast('无障碍服务未启动！退出！')
     exit()
