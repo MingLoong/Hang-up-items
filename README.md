@@ -683,6 +683,12 @@ https://www.icloud.com/shortcuts/cdfdac7d96cd4ad798e1e5d26f94d0d0
 
 https://www.52pojie.cn/thread-1531144-1-1.html
 
+文件转存成tb2.js在本仓库了，使用方法同上
+
+原帖链接：
+
+https://www.52pojie.cn/thread-1531871-1-1.html
+
 
 #### 除此之外，其他exe和apk脚本均存在使用ck淦别的事情的问题，请不要使用来路不明的软件以及app!!!
 
