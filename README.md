@@ -701,6 +701,12 @@ https://www.52pojie.cn/thread-1531871-1-1.html
 
 ### 喵惠助手
 
+吾爱帖子转发，风险自测，本人不测试，跑狗东和淘宝双十一的
+
+链接：https://www.lanzoui.com/b01cfbrbi
+
+原帖链接：https://www.52pojie.cn/thread-1532069-1-1.html
+
 吾爱的帖子，自测风险，如果没叫你额外登陆，那就是无风险的
 
 
