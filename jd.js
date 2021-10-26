@@ -12,20 +12,27 @@ function get_money() {
     //desc("浮层活动").findOne().click();
     click(desc("浮层活动").findOne().bounds().centerX(),desc("浮层活动").findOne().bounds().centerY())
     sleep(1000);
+    if(desc("浮层活动").exists()){
+     
     click(desc("浮层活动").findOne().bounds().centerX(),desc("浮层活动").findOne().bounds().centerY())
+    }
      
-     
-    textContains("消耗").waitFor();
-    log("页面已加载，准备做任务");     
+    textContains("消耗").waitFor(); 
+    log("页面已加载，准备做任务");      
     sleep(2000);
  
     var ch = textContains("消耗").findOne();
     var parent1 =ch.parent();
     for(var i = 0; i < parent1.childCount(); i++)
-    { var child = parent1.child(i);
+    { var child = parent1.child(i); 
       if(child.text().search("消耗")!=-1)
       {
-         parent1.child(i+1).click();
+         if(parent1.child(i+1).childCount()==0)
+          
+         { parent1.child(i+1).click();}
+         else
+         {
+             parent1.child(i+2).click();}
          break;
       }
     }
@@ -41,18 +48,18 @@ function get_money() {
        var num = text.match(/[0-9]+/g)
        //log(num)
        if(num[1]==num[0])
-       { 
+       {  
        log("浏览并关注已完成")
        break;
            }
        parent.child(3).click();
-       sleep(12000);
+       sleep(13000);
        back();
        sleep(5000);
    }
     
-   log("开始浏览8s任务");  
-   while(textContains("浏览8s").exists()){
+   log("开始浏览8s任务");   
+   while(textContains("浏览8s").exists()){ 
        var tens= textContains("浏览8s").findOne();
        var parent =tens.parent()
        var text=parent.child(1).text()
@@ -60,29 +67,23 @@ function get_money() {
        var num = text.match(/[0-9]+/g)
        //log(num)
        if(num[1]==num[0])
-       { 
+       {  
        log("浏览8s已完成")
        break;
            }
        parent.child(3).click();
-       sleep(12000);
+       sleep(13000);
        back();
-       sleep(5000);
+       sleep(5000); 
    }
     
    log("开始浏览5个的任务");
-   while(textContains("浏览5个").exists()){
+   while(textContains("浏览5个").exists()){ 
        var tens= textContains("浏览5个").findOne();
        var parent =tens.parent()
        var text=parent.child(1).text()
        log(text)
        var num = text.match(/[0-9]+/g)
-       //log(num)
-       if(num[1]==num[0])
-       { 
-       log("浏览5个任务已完成")
-       break;
-           }
        parent.child(3).click();
        textContains("当前页点击浏览5个商品领汪汪币").waitFor();
        sleep(2000);
@@ -100,7 +101,7 @@ function get_money() {
            sleep(2000);
            }
        back();
-       sleep(5000);
+       sleep(5000); 
    }
  
    log("浏览5个任务已完成");
