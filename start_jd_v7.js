@@ -1,14 +1,12 @@
-// https://github.com/spiritLHL/Hang-up-items/edit/master/start_jd_v5.js
-// 先自己开无障碍模式和允许浮窗显示，再运行脚本
-// 这是未完善脚本，如果有的任务已经做了，该脚本无法执行
-// 本脚本需手动进入活动界面，且打开任务列表才可起效
-// 针对<玩家分赃>活动进行调整 20211021
+//本脚本需手动进入活动界面，且打开任务列表才可起效
+//针对<玩家分赃>活动进行调整
+//增加京东金融浏览任务 20211022
 if (!auto.service) {
     toast('无障碍服务未启动！退出！')
     exit()
 }
 
-// alert('即将请求截图权限，用以查找按钮，请允许')
+alert('即将请求截图权限，用以查找按钮，请允许')
 if (!requestScreenCapture()) {
     console.log("请求截图失败，退出");
     exit();
@@ -35,8 +33,8 @@ function registerKey() {
 threads.start(registerKey)
 
 while (text("累计任务奖励").findOnce() == null) {
-    toast("请手动进入活动任务页面");
-    console.log('请手动进入活动任务页面')
+    toast("请手动进入京东或者京东金融活动任务页面");
+    console.log('请手动进入京东或者京东金融活动任务页面')
     sleep(2000);
 }
 
@@ -106,12 +104,12 @@ while (true) {
     }
 
     console.log('寻找未完成任务...')
-    let taskButtons = textMatches(/.*浏览并关注.*|.*浏览.*s.*|浏览.*s.*|.*累计浏览.*|.*浏览可得.*/).find();
+    let taskButtons = textMatches(/.*浏览并关注.*|.*浏览.*s.*|.*累计浏览.*|.*浏览可得.|浏览.*秒.*|.*浏览即可得.*|成功入会并浏览可得.*|浏览可得.*/).find()
+    sleep(2000)
     if (taskButtons.empty()) {
-        console.log('未找到浏览任务，退出，城城分现金任务手动完成，如有未完成重新运行')
-        console.log('其它组队、浏览品牌墙、点击首页等莫名其妙任务自己搞定！！！')
-        sleep(5000)
-        console.hide()
+        console.log('未找到浏览任务，退出，城城分现金任务手动完成！')
+        console.log('如有未完成浏览任务或者没有退回到任务栏请重新运行')
+        console.log('其它组队、浏览品牌墙、点击首页、去小程序等莫名其妙任务自己搞定！！！')
         break
     }
 
@@ -137,7 +135,7 @@ while (true) {
         break
     }
 
-    if (taskText.match(/浏览并关注.*s|浏览.*s/)) {
+    if (taskText.match(/浏览并关注.*s|浏览.*s|浏览.*秒.*|.*浏览可得.*|浏览即可得.*/)) {
         console.log('进行', taskText)
         timeTask()
     } else if (taskText.match(/累计浏览/)) {
