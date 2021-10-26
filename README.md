@@ -66,9 +66,9 @@
 
 ## 前言
 
-### 2021.10.23更新列表
+### 2021.10.26更新列表
 
-更新平台助手
+更新京东autojs脚本版本start_jd_v7.js和jd.js
 
 ## GitHub链接说明
 
@@ -653,7 +653,7 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 
 #### 方法2：
 
-使用autojs的脚本，脚本就在本仓库的```start_jd_v6.js```里
+使用autojs的脚本，脚本就在本仓库的```start_jd_v7.js```里
 
 安卓手机端：复制内容到autojs的app里创建脚本，给app无障碍权限，后面按照提示操作即可
 
