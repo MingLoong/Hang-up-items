@@ -112,6 +112,10 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 顺序从上到下，优惠力度逐渐变小
 
+双十一活动，买的时间更长久而且更便宜
+
+https://cloud.tencent.com/act/pre-2021double11?spread_hash_key=36f2865c0dcf34c3eb11b62cf83910fd
+
 74元2核4G云服务器一年，仅限没买过的买
 
 https://curl.qcloud.com/tPrMnfZm
