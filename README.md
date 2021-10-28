@@ -66,9 +66,9 @@
 
 ## 前言
 
-### 2021.10.26更新列表
+### 2021.10.28更新列表
 
-更新京东autojs脚本版本start_jd_v7.js和jd.js
+更新说明
 
 ## GitHub链接说明
 
@@ -424,6 +424,8 @@ https://superaj.lanzoui.com/b0brgwabi
 
 原帖链接：https://www.52pojie.cn/thread-1472238-1-1.html
 
+默认使用你的助力
+
 聊胜于无，还不如给我代挂
 
 作者蓝奏云详情地址：
@@ -437,7 +439,9 @@ https://aming123.lanzoui.com/b05hc6pne
 
 支持：安卓系统手机
 
-个人使用不二选择
+个人使用不二选择，后台有传输ck到服务器的行为，存在使用你的助力嫌疑
+
+聊胜于无，还不如给我代挂
 
 蓝奏云链接：https://spiritlhl.lanzoui.com/idJkHs9bgdc
 
@@ -653,7 +657,9 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 
 #### 方法1：
 
-安卓端，用上面的```狗东任务小辅```完成
+~~安卓端，用上面的```狗东任务小辅```完成~~
+
+不要用小辅，后台有传输ck到服务器的行为，存在偷助力嫌疑
 
 #### 方法2：
 
