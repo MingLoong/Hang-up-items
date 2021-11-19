@@ -685,3 +685,8 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 * 不可用于商业以及非法目的,使用本代码产生的一切后果, 作者不承担任何责任.
 
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/spiritLHL/Hang-up-items.svg)](https://starchart.cc/spiritLHL/Hang-up-items/)
+
+
