@@ -502,6 +502,10 @@ ps：安卓端有类似东西，但是有后门，会被偷cookie，建议别用
 
 ### 机场白嫖
 
+注册链接：https://niaoyun.fun/auth/register?code=5wyO
+
+脚本仓库如下
+
 链接：https://github.com/jiulan/platypus/blob/main/vpn/niaocloud.js
 
 ### 部分脚本好用可自取的仓库
