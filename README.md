@@ -29,6 +29,7 @@
         * [狗东退会脚本](#狗东退会脚本)
         * [本人自开发脚本合集](#本人自开发脚本合集)
         * [狗东JS脚本合集简易本地版](#狗东脚本合集简易本地版)
+        * [狗东python单人版](#狗东python单人版)
         * [滑稽东](#滑稽东)
         * [二合一狗东助手](#二合一狗东助手)
         * [狗东评价助手](#狗东评价助手)
@@ -72,9 +73,9 @@
 
 ## 前言
 
-### 2021.12.04更新列表
+### 2021.12.07更新列表
 
-增加简易签到助手
+删除部分错误描述，增加狗东python单人版仓库推荐
 
 ## GitHub链接说明
 
@@ -126,7 +127,7 @@ https://cloud.tencent.com/act/double11?spread_hash_key=2fd914481bd124d9e88e946fe
 
 https://curl.qcloud.com/tPrMnfZm
 
-学生机，限定25岁以下的买
+学生机，限定25岁以下的买，100左右一年
 
 https://curl.qcloud.com/MNyiQAB1
 
@@ -160,7 +161,9 @@ VNC
 
 每个月限额550小时，没有网络请求服务会在30分钟后休眠。
 
-### 白嫖免费虚拟主机
+### ~~白嫖免费虚拟主机~~
+
+好像无货了。。。自行探索吧
 
 链接：[https://www.cccyun.net/?invite=194452](https://www.cccyun.net/?invite=194452)
 
@@ -291,7 +294,7 @@ https://honeyminer.com/referred/6dwn5
 
 仓库链接：https://github.com/spiritLHL/qinglong_auto_tools
 
-自己写的当然自己都用上了
+自己写的当然自己都用上了，虽然不能保证每个人豆子都很多，但保证尽量公平
 
 [点我联系站长](https://jq.qq.com/?_wv=1027&k=C3jq2vpd)
 
@@ -331,15 +334,25 @@ https://honeyminer.com/referred/6dwn5
 
 配置特别简单，这里只是脚本仓库，具体使用方法自己看(作者更新不及时，随缘用)
 
+默认使用你的助力，具体风险自测
+
 仓库链接如下：（已反代理加速，直接点开直连打开即可）
 
 [点我跳转链接](https://git.spiritlhl.workers.dev/jxmc11/jd_node_pc)
+
+### 狗东python单人版
+
+支持：linux
+
+默认使用你的助力，具体风险自测
+
+仓库链接：https://github.com/wudongdefeng/jd_py
 
 ### 滑稽东
 
 支持：电脑，云服务器
 
-滑稽东自动完成狗东任务薅羊毛(还行，就是默认使用你的助力，你也可以申请别人的助力，但```要早点提交助力申请```不然资源分配没了，```试用用三合一那个```) 
+滑稽东自动完成狗东任务薅羊毛(还行，就是默认使用你的助力，你也可以申请别人的助力，但```要早点提交助力申请```不然资源分配没了，```试用用二合一那个```) 
 
 https://pan.lanzoux.com/b957303
 
@@ -347,7 +360,7 @@ https://pan.lanzoux.com/b957303
 
 支持：电脑，云服务器
 
-申请狗东试用(三合一版比滑稽东的试用申请功能多，个人平均半个月中一次)  
+申请狗东试用(二合一版比滑稽东的试用申请功能多，个人平均半个月中一次)  
 
 ```原帖子```链接 https://www.52pojie.cn/thread-1393933-1-1.html
 
@@ -389,7 +402,7 @@ https://superaj.lanzoui.com/b0brgwabi
 
 支持：电脑，云服务器
 
-苏宁狗东试用助手(淘宝苏宁试用推荐这个，聊胜于无，```这两平台每日可申请名额少，没怎么中过```) 
+苏宁狗东试用助手(苏宁试用推荐这个，聊胜于无，```这两平台每日可申请名额少，没怎么中过```) 
 
 ```原帖链接：``` https://www.52pojie.cn/thread-1541966-1-1.html
 
@@ -464,6 +477,8 @@ https://aming123.lanzoui.com/b05hc6pne
 
 支持：安卓手机
 
+默认使用你的助力，具体风险自测
+
 本人没用过，自己判别
 
 蓝奏云链接：https://spiritlhl.lanzoui.com/iQGartyfvkj
@@ -492,6 +507,8 @@ ps：安卓端有类似东西，但是有后门，会被偷cookie，建议别用
 
 由于是推荐仓库或单文件，所以使用原始链接，方便个人notification关注更新，国内直连可能访问不上，你需要多试试或者搜索一下解决方法
 
+由于各个仓库使用方法都不大一样，无法给出具体使用教程，请自行摸索
+
 ### 叮咚买菜
 
 链接：https://github.com/zyf1118/kevinxf
@@ -504,7 +521,7 @@ ps：安卓端有类似东西，但是有后门，会被偷cookie，建议别用
 
 注册链接：https://niaoyun.fun/auth/register?code=5wyO
 
-脚本仓库如下
+脚本仓库如下，具体使用方法详见注释
 
 链接：https://github.com/jiulan/platypus/blob/main/vpn/niaocloud.js
 
@@ -729,6 +746,23 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 * 本仓库仅供学习
 * 不可用于商业以及非法目的，使用本仓库代码产生的一切后果, 作者不承担任何责任.
 * 本仓库链接仅网络收集，侵权告知必删，使用相关链接产生的一切后果，作者不承担任何责任。
+
+## Special statement:
+
+Any unlocking and decryption analysis scripts involved in the Script project released by this warehouse are only used for testing, learning and research, and are forbidden to be used for commercial purposes. Their legality, accuracy, completeness and effectiveness cannot be guaranteed. Please make your own judgment based on the situation. .
+
+All resource files in this project are forbidden to be reproduced or published in any form by any official account or self-media.
+
+This warehouse is not responsible for any script problems, including but not limited to any loss or damage caused by any script errors.
+
+Any user who indirectly uses the script, including but not limited to establishing a VPS or disseminating it when certain actions violate national/regional laws or related regulations, this warehouse is not responsible for any privacy leakage or other consequences caused by this.
+
+Do not use any content of the Script project for commercial or illegal purposes, otherwise you will be responsible for the consequences.
+
+If any unit or individual believes that the script of the project may be suspected of infringing on their rights, they should promptly notify and provide proof of identity and ownership. We will delete the relevant script after receiving the certification document.
+
+Anyone who views this item in any way or directly or indirectly uses any script of the Script item should read this statement carefully. This warehouse reserves the right to change or supplement this disclaimer at any time. Once you have used and copied any relevant scripts or rules of the Script project, you are deemed to have accepted this disclaimer.
+
 
 
 ## Stargazers over time
