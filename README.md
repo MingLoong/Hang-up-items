@@ -123,10 +123,6 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 https://activity.huaweicloud.com/sichuan.html?fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69&utm_source=aHczMjMwNDYzNw===&utm_medium=cps&utm_campaign=201905&ticket=ST-22451-gj9Bl5WGzAAUKGJMUgaFjh3J-sso
 
-双十一活动，买的时间更长久而且更便宜
-
-https://cloud.tencent.com/act/double11?spread_hash_key=2fd914481bd124d9e88e946fe4eefec8&cps_key=c57aeee1ac0c5493f6718c40421affcf
-
 74元2核4G云服务器一年，仅限没买过的买
 
 https://curl.qcloud.com/tPrMnfZm
