@@ -73,9 +73,9 @@
 
 ## 前言
 
-### 2021.12.07更新列表
+### 2021.12.08更新列表
 
-删除部分错误描述，增加狗东python单人版仓库推荐
+更新服务器购买推荐
 
 ## GitHub链接说明
 
@@ -118,6 +118,10 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 ### 云服务器活动
 
 顺序从上到下，优惠力度逐渐变小
+
+超级福利，一年39三年117的小机子
+
+https://activity.huaweicloud.com/sichuan.html?fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69&utm_source=aHczMjMwNDYzNw===&utm_medium=cps&utm_campaign=201905&ticket=ST-22451-gj9Bl5WGzAAUKGJMUgaFjh3J-sso
 
 双十一活动，买的时间更长久而且更便宜
 
