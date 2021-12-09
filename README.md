@@ -152,7 +152,7 @@ https://curl.qcloud.com/pgLkw0ot
 
 ### 白嫖免费云服务器
 
-仅支持Linux系统，有效期7天，续费在5~7天内
+仅支持Linux系统，有效期7天，手动续期在第5~7天内，可以一直这样续期
 
 链接：https://hax.co.id/create-vps/
 
