@@ -158,6 +158,8 @@ https://curl.qcloud.com/pgLkw0ot
 
 需要tg账号绑定，暂无自动续期脚本
 
+一直可撸，审核时间短，限额一个tg号一个VPS，一直有货，过审核很简单
+
 ### 白嫖免费云桌面
 
 VNC
