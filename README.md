@@ -74,9 +74,9 @@
 
 ## 前言
 
-### 2021.12.09更新列表
+### 2021.12.11更新列表
 
-增加服务器白嫖链接
+删改说明
 
 ## GitHub链接说明
 
@@ -529,6 +529,8 @@ ps：安卓端有类似东西，但是有后门，会被偷cookie，建议别用
 链接：https://github.com/wuye999/myScripts/tree/main/unicom-task
 
 ### 机场白嫖
+
+2021.12.11 免费线路暂时停止，白嫖不了暂时，等再次开启
 
 注册链接：https://niaoyun.fun/auth/register?code=5wyO
 
