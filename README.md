@@ -176,13 +176,17 @@ VNC
 
 每个月限额550小时，没有网络请求服务会在30分钟后休眠。
 
-### ~~白嫖免费虚拟主机~~
+### 白嫖免费虚拟主机
 
-好像无货了。。。自行探索吧
+下面这个好像无货了。。。自行探索吧
+
+首页是显示无货的，需要的得先注册，然后到订购产品里找免费虚拟主机。
 
 链接：[https://www.cccyun.net/?invite=194452](https://www.cccyun.net/?invite=194452)
 
-首页是显示无货的，需要的得先注册，然后到订购产品里找免费虚拟主机。
+这个有货，但是是德国的
+
+链接：https://www.xsl.tel/hosting/shared-web-hosting/free-cpanel-shared-web-hosting
 
 没需要别整，这个只能搭网站
 
