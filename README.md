@@ -76,7 +76,7 @@
 
 ## 前言
 
-### 2021.12.17更新列表
+### 2021.12.21更新列表
 
 更新部分链接使用说明
 
@@ -124,7 +124,7 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 顺序从上到下，优惠力度逐渐变小
 
-超级福利，一年39三年117的小机子
+超级福利，一年39三年117的小机子(活动到今年31号)
 
 https://activity.huaweicloud.com/sichuan.html?fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69&utm_source=aHczMjMwNDYzNw===&utm_medium=cps&utm_campaign=201905&ticket=ST-22451-gj9Bl5WGzAAUKGJMUgaFjh3J-sso
 
@@ -164,7 +164,7 @@ ps:帮忙点点博客广告跳转跳转算给我支持了
 
 需要tg账号绑定，暂无自动续期脚本
 
-一直可撸，审核时间短，限额一个tg号一个VPS，一直有货，过审核很简单
+一直可撸，审核时间短，限额一个tg号一个VPS，一直有货，过审核很简单(建议入KVM而不是openVZ，后者得开tun)
 
 ps:个人使用体验，前面那个有法子自动续期，每个月续一次，但机子不是很好，只能说一般般，下面这个每周续一次，但机子性能很好。
 
@@ -795,7 +795,7 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 
 # 欢迎请站主喝一杯
 
-![](https://i.loli.net/2021/07/15/UPk5VbzAIC6OM7y.jpg)
+![](https://cdn.jsdelivr.net/gh/spiritLHL/tuchuang@master/zz.jpg)
 
 
 # 免责声明
