@@ -77,9 +77,9 @@
 
 ## 前言
 
-### 2021.12.26更新列表
+### 2022.1.1更新列表
 
-更新联通相关脚本
+删除过期活动链接
 
 ## GitHub链接说明
 
@@ -125,10 +125,6 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 顺序从上到下，优惠力度逐渐变小
 
-超级福利，一年39三年117的小机子(活动到今年31号)
-
-https://activity.huaweicloud.com/sichuan.html?fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69&utm_source=aHczMjMwNDYzNw===&utm_medium=cps&utm_campaign=201905&ticket=ST-22451-gj9Bl5WGzAAUKGJMUgaFjh3J-sso
-
 74元2核4G云服务器一年，仅限没买过的买
 
 https://curl.qcloud.com/tPrMnfZm
@@ -137,9 +133,9 @@ https://curl.qcloud.com/tPrMnfZm
 
 https://curl.qcloud.com/MNyiQAB1
 
-无忧计划，随便找几个人助力就有资格了，优点是续费同价15元一个月，适合长期使用
+69元1年1核2G小机子（配置看起来低，但是网速比2核4G的腾讯云就差一点点，真的不错）
 
-https://curl.qcloud.com/pgLkw0ot
+https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69&utm_source=aHczMjMwNDYzNw===&utm_medium=cps&utm_campaign=201905&fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69
 
 ### 白嫖永久免费云服务器
 
