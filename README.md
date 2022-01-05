@@ -78,9 +78,9 @@
 
 ## 前言
 
-### 2022.1.3更新列表
+### 2022.1.5更新列表
 
-作者的鲸鱼不再更新，单独更新狗狗助手
+更新服务器优惠信息以及撸新号方法
 
 ## GitHub链接说明
 
@@ -126,7 +126,7 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 顺序从上到下，优惠力度逐渐变小
 
-74元2核4G云服务器一年，仅限没买过的买
+38元一年1核2G5M云服务器一年，74一年222三年2核4G8M，仅限没买过的买
 
 https://curl.qcloud.com/tPrMnfZm
 
@@ -137,6 +137,10 @@ https://curl.qcloud.com/MNyiQAB1
 69元1年1核2G小机子（配置看起来低，但是网速比2核4G的腾讯云就差一点点，真的不错）
 
 https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69&utm_source=aHczMjMwNDYzNw===&utm_medium=cps&utm_campaign=201905&fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69
+
+ps:教你们快速搞新号薅腾讯云新号优惠，只要你那个账号没有腾讯云的付费服务时，可以去注销账号，过一会再重新注册账号再次实名认证，你的号就又是新用户了，又能薅新号优惠了
+
+pps:有可能黑身份上征信，我没操作过，一切只是他人的经验，操作出事别赖我头上，有啥事我一概不负责。
 
 ### 白嫖永久免费云服务器
 
