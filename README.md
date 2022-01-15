@@ -81,9 +81,9 @@
 
 ## 前言
 
-### 2022.1.14更新列表
+### 2022.1.15更新列表
 
-更新狗东炸年兽仓库（autojs）
+更新免费1年云硬盘，可挂载上VPS
 
 ## GitHub链接说明
 
@@ -206,6 +206,12 @@ VNC
 链接：https://www.xsl.tel/hosting/shared-web-hosting/free-cpanel-shared-web-hosting
 
 没需要别整，这个只能搭网站
+
+### 白嫖1TB云硬盘
+
+链接：https://www.euserv.com/en/cloud/backup-hd-1T-se2021.php
+
+只能嫖一年。
 
 ## 挂机和薅羊毛项目
 
