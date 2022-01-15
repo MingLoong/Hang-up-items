@@ -24,6 +24,7 @@
         * [跑流量挂机02](#跑流量挂机2)
         * [cryptotab挖币挂机](#cryptotab)
         * [honeyminer智能挖币挂机](#honeyminer)
+        * [peer2profit刷闲置流量](#peer2profit)
     * [狗东合集](#狗东合集)
         * [狗东免费代挂站点](#狗东免费代挂站点)
         * [狗东入会脚本(每天两次)](#狗东入会脚本)
@@ -85,6 +86,8 @@
 ### 2022.1.15更新列表
 
 更新免费1年云硬盘，可挂载上VPS
+
+更新挂机项目https://peer2profit.com/r/164225539661e2d42426a2f/ru
 
 ## GitHub链接说明
 
@@ -320,6 +323,15 @@ https://cryptotabbrowser.com/18839769
 新的一个平台，聊胜于无，自己感觉比不过上面那个(蜜蜂智能挖矿，自动选择币种，伤GPU和CPU)  
 
 https://honeyminer.com/referred/6dwn5
+
+
+### peer2profit
+
+支持全平台，这是它的优点
+
+支持多种支付方式，外币卡或者payeer都是可以的。
+
+https://peer2profit.com/r/164225539661e2d42426a2f/ru
 
 ## 狗东合集
 
