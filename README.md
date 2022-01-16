@@ -83,11 +83,13 @@
 
 ## 前言
 
-### 2022.1.15更新列表
+### 2022.1.16更新列表
 
 更新免费1年云硬盘，可挂载上VPS
 
 更新挂机项目https://peer2profit.com/r/164225539661e2d42426a2f/ru
+
+更新狗狗助手
 
 ## GitHub链接说明
 
@@ -471,18 +473,18 @@ https://ctlddey.lanzoui.com/iAutpwdtu0j
 
 ### 狗狗助手
 
-2022.1.3更新
+2022.1.5更新
 
 支持：电脑，云服务器
 
 单文件版运行下载地址：
 
-链接：https://pan.baidu.com/s/1TI-MnTMqZ7TmMyY5GYR3WA
-提取码：52pj
+如1.0.1无法打开的下载1.0.1修复版（几十M）：
+换了个编译器解决部分机器出现No module named 'PyQt5.QtWebEngineWidgets'
+https://ctlddey.lanzoul.com/iwemLye9spa
 
-解压版运行下载地址：
-
-https://ctlddey.lanzoul.com/icbD5yar9id
+可以正常打开就下载修复包（几百K，需有1.0.1解压包）：
+https://ctlddey.lanzoul.com/itNYHye97mb
 
 原帖链接：https://www.52pojie.cn/thread-1570658-1-1.html
 
