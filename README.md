@@ -76,6 +76,7 @@
     * [有时效性的脚本(只为某段时间内的活动而出现的脚本)](#有时效性的脚本只为某段时间内的活动而出现的脚本)
       * [狗东炸年兽1](#狗东炸年兽1)
       * [狗东炸年兽2](#狗东炸年兽2)
+      * [狗东炸年兽3](#狗东炸年兽3)
     * [程序多开软件](#程序多开软件)
     * [某些好用的代理链接](#某些好用的代理链接)
 * [后言](#后言)
@@ -83,15 +84,9 @@
 
 ## 前言
 
-### 2022.1.16更新列表
+### 2022.1.18更新列表
 
-更新免费1年云硬盘，可挂载上VPS
-
-更新挂机项目https://peer2profit.com/r/164225539661e2d42426a2f/ru
-
-更新狗狗助手
-
-坏消息Euserv需要收费激活账号了。。。凉凉
+更新狗东限时活动炸年兽autojs脚本03
 
 ## GitHub链接说明
 
@@ -833,6 +828,14 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 ### 狗东炸年兽2
 
 脚本仓库链接：https://github.com/LingFeng0918/jd_scripts/tree/master/AutoJS/JD
+
+适配安卓autojs软件，autojs的APP软件自行搜索下载。
+
+### 狗东炸年兽3
+
+原帖链接：https://www.52pojie.cn/thread-1575904-1-1.html
+
+个人转存链接：https://spiritlhl.lanzouo.com/iiEthyy5nub
 
 适配安卓autojs软件，autojs的APP软件自行搜索下载。
 
