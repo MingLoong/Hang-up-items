@@ -332,6 +332,8 @@ https://honeyminer.com/referred/6dwn5
 
 支持多种支付方式，外币卡或者payeer都是可以的。
 
+缺点是linux系统的只支持amd64架构的机子，win系统没遇到限制。
+
 https://peer2profit.com/r/164225539661e2d42426a2f/ru
 
 ## 狗东合集
