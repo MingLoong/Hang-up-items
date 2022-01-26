@@ -161,7 +161,7 @@ ppps:自己随手写了腾讯云签到薅积分的脚本，链接：https://gith
 
 ### ~~白嫖永久免费云服务器~~
 
-**会收不要的德机(Euserv账号)，私聊: [https://t.me/spiritlhl](https://t.me/spiritlhl) 捐赠**
+**回收不要的德机(Euserv账号)，私聊: [https://t.me/spiritlhl](https://t.me/spiritlhl) 捐赠**
 
 仅支持Linux系统
 
