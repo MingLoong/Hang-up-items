@@ -84,9 +84,9 @@
 
 ## 前言
 
-### 2022.1.27更新列表
+### 2022.1.28更新列表
 
-删除部分过期说明
+修改部分过期链接
 
 ## GitHub链接说明
 
@@ -282,7 +282,7 @@ https://iproyal.com/pawns?r=97082
 
 如果挂载更大的磁盘或上行更高，收入一天估计几块钱吧，当然你地区是它需要的地区收入更高，我的不是急需地区。
 
-链接：[https://www.onethingcloud.com/acts/invite?inviteid=e03e6e93](https://www.onethingcloud.com/acts/invite?inviteid=e03e6e93)
+链接：[https://www.onethingcloud.com/](https://www.onethingcloud.com/)
 
 ## 上面三个可以一起挂，不影响各自收益
 
