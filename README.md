@@ -80,9 +80,9 @@
 
 ## 前言
 
-### 2022.2.3更新列表
+### 2022.2.6更新列表
 
-删除过期活动
+增加自建公益节点
 
 ## GitHub链接说明
 
@@ -840,6 +840,10 @@ TV版电视盒子APP专区：https://ufoclz.lanzoui.com/b00zboiwb 码:2kzz
 **时灵时不灵**
 
 链接：https://free-ss.site/
+
+**自建公益节点**
+
+链接：https://www.spiritysdx.top/about/jiedian/
 
 ## 后言
 
