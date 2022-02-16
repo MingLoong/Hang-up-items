@@ -617,6 +617,8 @@ ios端的桌面小控件
 
 密码:qlhl
 
+教程：[图片点我查看](https://spiritlhl-tc.oss-cn-beijing.aliyuncs.com/QQ图片20220216182007.png)
+
 ps：安卓端有类似东西，但是有后门，会被偷cookie，建议别用
 
 ### 狗东抢购仓库
