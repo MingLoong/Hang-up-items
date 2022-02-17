@@ -186,7 +186,7 @@ OpenVZ的机不能开tun。
 
 购买页面：https://hosting-russia.ru/vds-vps
 
-### ~~白嫖永久免费云服务器~~
+### ~~白嫖永久免费云服务器(废弃)~~
 
 **回收不要的德机(Euserv账号)，私聊: [https://t.me/spiritlhl](https://t.me/spiritlhl) 捐赠**
 
