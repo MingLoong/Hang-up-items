@@ -218,6 +218,14 @@ scaleway 星辰实例
 
 购买链接：https://www.scaleway.com/en/stardust-instances/
 
+#### 美国小鸡4(VPS)
+
+一年20🔪1核512MB内存10G硬盘
+
+比较缺货。
+
+购买链接：https://buyvm.net/kvm-dedicated-server-slices/
+
 ### ~~白嫖永久免费云服务器(废弃)~~
 
 **回收不要的德机(Euserv账号)，私聊: [https://t.me/spiritlhl](https://t.me/spiritlhl) 捐赠**
