@@ -172,14 +172,6 @@ pps:有可能黑身份上征信，我没操作过，一切只是他人的经验�
 
 购买链接：https://www.racknerd.com/NewYear/
 
-#### 美国小鸡2(VPS)
-
-日价20🔪黑五价15🔪2核1G内存30G硬盘2.5T每月带宽1G带ipv4.(OpneVZ)
-
-黑五(或者优惠卷)平摊下来每月7.8元左右，日常价格平摊下来每月10元出头一点。
-
-购买链接：https://nextarray.com/openvz-ssd-vps/
-
 #### 俄罗斯小机1(VPS&VDS)
 
 55卢布VDS(4.65元)一个月,1核0.5G内存7G硬盘100mb/s网(KVM)
@@ -209,6 +201,14 @@ OpenVZ的机不能开tun。
 注册链接：https://hosting-russia.ru/?p=16730
 
 购买页面：https://hosting-russia.ru/vds-vps
+
+#### 美国小鸡2(VPS)
+
+日价20🔪黑五价15🔪2核1G内存30G硬盘2.5T每月带宽1G带ipv4.(OpneVZ)
+
+黑五(或者优惠卷)平摊下来每月7.8元左右，日常价格平摊下来每月10元出头一点。
+
+购买链接：https://nextarray.com/openvz-ssd-vps/
 
 #### 美国小鸡3(VPS)
 
