@@ -302,8 +302,6 @@ VNC
 
 链接：http://fibehosting.com/?i=1
 
-![图片](https://user-images.githubusercontent.com/62994705/154824879-7565dad5-b271-4227-9aa2-cebba9cbb015.png)
-
 ### 白嫖1TB云硬盘
 
 链接：https://www.euserv.com/en/cloud/backup-hd-1T-se2021.php
