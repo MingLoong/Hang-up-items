@@ -188,6 +188,8 @@ OpenVZ的机不能开tun。
 
 购买链接：https://firstbyte.ru/vps-vds/
 
+优惠码：refer_104762
+
 #### 俄罗斯小机2(VPS)
 
 80卢布(6.77元)一个月，1核0.5G内存5G硬盘(KVM)
