@@ -80,9 +80,9 @@
 
 ## 前言
 
-### 2022.2.19更新列表
+### 2022.2.20更新列表
 
-更新美国小鸡推荐，非必要勿购！
+更新免费虚拟主机托管网站。
 
 ## GitHub链接说明
 
@@ -295,6 +295,14 @@ VNC
 链接：https://www.xsl.tel/hosting/shared-web-hosting/free-cpanel-shared-web-hosting
 
 没需要别整，这个只能搭网站
+
+2022.2.20更新
+
+国外托管网站
+
+链接：http://fibehosting.com/?i=1
+
+![图片](https://user-images.githubusercontent.com/62994705/154824879-7565dad5-b271-4227-9aa2-cebba9cbb015.png)
 
 ### 白嫖1TB云硬盘
 
