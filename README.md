@@ -82,7 +82,7 @@
 
 ### 2022.2.21更新列表
 
-更新免费国外服务器推荐。
+更新国外服务器推荐。
 
 ## GitHub链接说明
 
@@ -214,13 +214,27 @@ OpenVZ的机不能开tun。
 
 #### 美国小鸡3(VPS)
 
+有一个月1🔪或1.5🔪的小鸡。
+
+黑五或者大的西方节日有3🔪一年的小鸡。
+
+每月1🔪1核192MB内存10G硬盘250G流量每月(不推荐，太卡了)(Micro+)
+
+链接：https://virmach.com/best-cheapest-linux-vps/
+
+每月1.5🔪1核384MB内存10G硬盘500G流量每月(推荐，但不推荐日常买，推荐节日买)(KVM)
+
+链接：https://virmach.com/cheap-kvm-linux-vps-windows-vps/#css3_grid_kvm_prev
+
+#### 美国小鸡4(VPS)
+
 一个月1.8欧一年21.6欧(一个月12.9一年154元)(KVM)
 
 scaleway 星辰实例 
 
 购买链接：https://www.scaleway.com/en/stardust-instances/
 
-#### 美国小鸡4(VPS)
+#### 美国小鸡5(VPS)
 
 最低价一年20🔪1核512MB内存10G硬盘(日常价格20🔪，黑五价格15🔪)
 
@@ -230,7 +244,7 @@ scaleway 星辰实例
 
 购买链接：https://buyvm.net/kvm-dedicated-server-slices/
 
-#### 美国小鸡5(VPS)
+#### 美国小鸡6(VPS)
 
 最低价一个月3🔪1核512MB内存25G硬盘每月1.5T流量1IPV4地址+1IPV6地址。
 
