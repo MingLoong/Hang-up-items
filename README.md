@@ -215,17 +215,27 @@ OpenVZ的机不能开tun。
 
 #### 俄罗斯小鸡3(VPS)
 
+续费久有优惠。
+
 30卢布(3元)一个月，1核0.5G内存10G硬盘(KVM)(几乎抢不到)
 
 130卢布(11元)一个月，1核0.5G内存10G硬盘(KVM)(随时有)
-
-其他的服务器
 
 注册链接：https://ruvds.com/pr6188
 
 购买页面：https://ruvds.com/cheap_vps/
 
 下拉页面自己找，点击订购后得自己选配置
+
+#### 俄罗斯小鸡4(VPS)
+
+104卢布(10元左右)一个月，1核0.5G内存5G硬盘(KVM)200 Mbit(随时有)
+
+这个续费久有活动有优惠，6月和11月续期很便宜。(19年能撸1卢布一个月的鸡，现在撸不了了)
+
+注册链接：https://justhost.ru/?ref=137779
+
+购买链接：https://justhost.ru/services/vps/?tariff=1#changeconfig
 
 #### 美国小鸡2(VPS)
 
