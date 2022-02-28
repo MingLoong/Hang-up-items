@@ -289,6 +289,12 @@ scaleway 星辰实例
 
 购买链接：https://spartanhost.org/vps
 
+#### 美国小鸡7(VPS)
+
+只推荐活动期间买鸡，能10🔪左右买一年1核1G1TIPV4小鸡
+
+注册链接：https://app.cloudcone.com/?ref=7639
+
 ### ~~白嫖永久免费云服务器(废弃)~~
 
 **回收不要的德机(Euserv账号)，私聊: [https://t.me/spiritlhl](https://t.me/spiritlhl) 捐赠**
