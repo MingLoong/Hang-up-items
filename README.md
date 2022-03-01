@@ -85,6 +85,8 @@
 
 填坑，更新全球VPS余量监控频道。
 
+更新国内云服务器活动。
+
 ## GitHub链接说明
 
 本仓库所有GitHub链接标识已反代理加速的都已经反代理了，除了不能登陆账号，所有行为都加速了，直连点击即可，部分不重要的链接我没有反代理，直连可能会卡。
@@ -128,6 +130,10 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 ### 云服务器活动
 
 顺序从上到下，优惠力度逐渐变小
+
+#### 40元一年，200元3年2核2G，仅限新用户
+
+https://cloud.tencent.com/act/cps/redirect?redirect=35633&cps_key=c57aeee1ac0c5493f6718c40421affcf
 
 #### 38元一年1核2G5M云服务器一年，74一年222三年2核4G8M，仅限没买过的买
 
