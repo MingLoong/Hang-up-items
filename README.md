@@ -85,7 +85,7 @@
 
 填坑，更新全球VPS余量监控频道。
 
-更新国内云服务器活动。
+更新国内云服务器活动，删除过时说明。
 
 ## GitHub链接说明
 
@@ -135,8 +135,6 @@ yougov调查网 https://account.yougov.com/cn-zh/join?referral=x7Y6cx7ZUcKKOqgzT
 
 https://cloud.tencent.com/act/cps/redirect?redirect=35633&cps_key=c57aeee1ac0c5493f6718c40421affcf
 
-#### 38元一年1核2G5M云服务器一年，74一年222三年2核4G8M，仅限没买过的买
-
 https://curl.qcloud.com/tPrMnfZm
 
 #### 学生机，限定25岁以下的买，100左右一年
@@ -148,6 +146,8 @@ https://curl.qcloud.com/MNyiQAB1
 https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69&utm_source=aHczMjMwNDYzNw===&utm_medium=cps&utm_campaign=201905&fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69
 
 #### 一些胡言乱语
+
+腾讯云以后不再会有1核2G的机子了，所有实例都会从2核2G开始了。国内机买腾讯云，国外鸡看我下面的推荐和白嫖。
 
 ps:教你们快速搞新号薅腾讯云新号优惠，只要你那个账号没有腾讯云的付费服务时，可以去注销账号，过一会再重新注册账号再次实名认证，你的号就又是新用户了，又能薅新号优惠了
 
