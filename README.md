@@ -83,7 +83,7 @@
 
 ### 2022.3.4更新列表
 
-删除过期说明。
+更新华为云优惠。
 
 ## GitHub链接说明
 
@@ -139,9 +139,9 @@ https://curl.qcloud.com/tPrMnfZm
 
 https://curl.qcloud.com/MNyiQAB1
 
-#### 69元1年1核2G小机子（配置看起来低，但是网速比2核4G的腾讯云就差一点点，真的不错）
+#### 35元1年1核2G1M小机子（配置看起来低，但是网速比2核4G的腾讯云就差一点点，真的不错）
 
-https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69&utm_source=aHczMjMwNDYzNw===&utm_medium=cps&utm_campaign=201905&fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69
+https://activity.huaweicloud.com/newyear_promotion/index.html?fromacct=7f578fa1-2fdd-4ae9-9f4d-4320ed3b4a69&utm_source=aHczMjMwNDYzNw===&utm_medium=cps&utm_campaign=201905
 
 #### 一些胡言乱语
 
